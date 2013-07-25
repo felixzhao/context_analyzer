@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="96.txt">
+  <sentence id="1" emotion="N/A">
+    <word id="1" wordOrder="1" emotion="N/A" property="m">许多</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="n">消费者</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="p">对</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="n">手机</word>
+    <word id="5" wordOrder="5" emotion="negative" property="vn">维修</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="f">期间</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="d">还</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="v">要</word>
+    <word id="9" wordOrder="9" emotion="N/A" property="p">向</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="vn">运营</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="n">商</word>
+    <word id="12" wordOrder="12" emotion="negative" property="v">付费</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="v">表示</word>
+    <word id="14" wordOrder="14" emotion="negative" property="an">不满</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="wd">，</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="v">认为</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="d">很</word>
+    <word id="18" wordOrder="18" emotion="N/A" property="d">不</word>
+    <word id="19" wordOrder="19" emotion="negative" property="a">合理</word>
+  </sentence>
+  <sentence id="2" emotion="N/A">
+    <word id="20" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="21" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="22" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="23" wordOrder="4" emotion="N/A" property="n">专家</word>
+    <word id="24" wordOrder="5" emotion="N/A" property="v">提醒</word>
+    <word id="25" wordOrder="6" emotion="N/A" property="wm">：</word>
+    <word id="26" wordOrder="7" emotion="N/A" property="n">商家</word>
+    <word id="27" wordOrder="8" emotion="N/A" property="p">以</word>
+    <word id="28" wordOrder="9" emotion="N/A" property="v">送</word>
+    <word id="29" wordOrder="10" emotion="N/A" property="n">话费</word>
+    <word id="30" wordOrder="11" emotion="N/A" property="uden">等</word>
+    <word id="31" wordOrder="12" emotion="N/A" property="n">套餐</word>
+    <word id="32" wordOrder="13" emotion="N/A" property="vn">活动</word>
+    <word id="33" wordOrder="14" emotion="negative" property="vn">捆绑</word>
+    <word id="34" wordOrder="15" emotion="N/A" property="vn">销售</word>
+    <word id="35" wordOrder="16" emotion="N/A" property="n">手机</word>
+    <word id="36" wordOrder="17" emotion="N/A" property="d">也</word>
+    <word id="37" wordOrder="18" emotion="N/A" property="v">应</word>
+    <word id="38" wordOrder="19" emotion="N/A" property="v">视作</word>
+    <word id="39" wordOrder="20" emotion="N/A" property="vi">合格</word>
+    <word id="40" wordOrder="21" emotion="N/A" property="n">商品</word>
+    <word id="41" wordOrder="22" emotion="N/A" property="wd">，</word>
+    <word id="42" wordOrder="23" emotion="N/A" property="v">应</word>
+    <word id="43" wordOrder="24" emotion="N/A" property="d">单</word>
+    <word id="44" wordOrder="25" emotion="N/A" property="v">开</word>
+    <word id="45" wordOrder="26" emotion="N/A" property="n">手机</word>
+    <word id="46" wordOrder="27" emotion="N/A" property="n">发票</word>
+    <word id="47" wordOrder="28" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="48" wordOrder="29" emotion="N/A" property="vn">保修</word>
+    <word id="49" wordOrder="30" emotion="N/A" property="n">卡</word>
+  </sentence>
+  <sentence id="3" emotion="N/A">
+    <word id="50" wordOrder="1" emotion="N/A" property="p">按照</word>
+    <word id="51" wordOrder="2" emotion="N/A" property="n">合同法</word>
+    <word id="52" wordOrder="3" emotion="N/A" property="n">规定</word>
+    <word id="53" wordOrder="4" emotion="N/A" property="wd">，</word>
+    <word id="54" wordOrder="5" emotion="N/A" property="v">赠予</word>
+    <word id="55" wordOrder="6" emotion="N/A" property="n">人</word>
+    <word id="56" wordOrder="7" emotion="N/A" property="p">在</word>
+    <word id="57" wordOrder="8" emotion="N/A" property="v">附</word>
+    <word id="58" wordOrder="9" emotion="N/A" property="n">义务</word>
+    <word id="59" wordOrder="10" emotion="N/A" property="ude1">的</word>
+    <word id="60" wordOrder="11" emotion="N/A" property="n">限度</word>
+    <word id="61" wordOrder="12" emotion="N/A" property="f">内</word>
+    <word id="62" wordOrder="13" emotion="N/A" property="v">承担</word>
+    <word id="63" wordOrder="14" emotion="N/A" conjunction="True" effect="same" property="cc">与</word>
+    <word id="64" wordOrder="15" emotion="N/A" property="v">出卖</word>
+    <word id="65" wordOrder="16" emotion="N/A" property="n">人</word>
+    <word id="66" wordOrder="17" emotion="N/A" property="a">相同</word>
+    <word id="67" wordOrder="18" emotion="N/A" property="ude1">的</word>
+    <word id="68" wordOrder="19" emotion="negative" property="n">责任</word>
+  </sentence>
+  <sentence id="4" emotion="N/A">
+    <word id="69" wordOrder="1" emotion="N/A" property="p">在</word>
+    <word id="70" wordOrder="2" emotion="N/A" property="n">手机</word>
+    <word id="71" wordOrder="3" emotion="negative" property="vn">维修</word>
+    <word id="72" wordOrder="4" emotion="N/A" property="f">期间</word>
+    <word id="73" wordOrder="5" emotion="N/A" property="wd">，</word>
+    <word id="74" wordOrder="6" emotion="N/A" property="n">建议</word>
+    <word id="75" wordOrder="7" emotion="N/A" property="vn">运营</word>
+    <word id="76" wordOrder="8" emotion="N/A" property="n">企业</word>
+    <word id="77" wordOrder="9" emotion="N/A" property="p">向</word>
+    <word id="78" wordOrder="10" emotion="N/A" property="n">消费者</word>
+    <word id="79" wordOrder="11" emotion="N/A" property="v">发放</word>
+    <word id="80" wordOrder="12" emotion="N/A" property="v">替代</word>
+    <word id="81" wordOrder="13" emotion="N/A" property="n">手机</word>
+    <word id="82" wordOrder="14" emotion="N/A" conjunction="True" effect="same" property="c">或</word>
+    <word id="83" wordOrder="15" emotion="N/A" property="v">采取</word>
+    <word id="84" wordOrder="16" emotion="N/A" property="v">暂停</word>
+    <word id="85" wordOrder="17" emotion="negative" property="vn">收费</word>
+  </sentence>
+  <sentence id="5" emotion="N/A">
+    <word id="86" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="87" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="88" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="89" wordOrder="4" emotion="N/A" property="n">空调</word>
+    <word id="90" wordOrder="5" emotion="N/A" property="w"></word>
+    <word id="91" wordOrder="6" emotion="N/A" property="x">　</word>
+    <word id="92" wordOrder="7" emotion="N/A" property="x">　</word>
+    <word id="93" wordOrder="8" emotion="N/A" property="v">存在</word>
+    <word id="94" wordOrder="9" emotion="N/A" property="n">问题</word>
+    <word id="95" wordOrder="10" emotion="N/A" property="wm">：</word>
+    <word id="96" wordOrder="11" emotion="N/A" property="v">制</word>
+    <word id="97" wordOrder="12" emotion="N/A" property="a">热</word>
+    <word id="98" wordOrder="13" emotion="N/A" property="wn">、</word>
+    <word id="99" wordOrder="14" emotion="N/A" property="vn">制冷</word>
+    <word id="100" wordOrder="15" emotion="N/A" property="n">效果</word>
+    <word id="101" wordOrder="16" emotion="negative" property="a">差</word>
+    <word id="102" wordOrder="17" emotion="N/A" property="wd">,</word>
+    <word id="103" wordOrder="18" emotion="N/A" property="s">室内</word>
+    <word id="104" wordOrder="19" emotion="N/A" property="ng">机</word>
+    <word id="105" wordOrder="20" emotion="negative" property="v">滴</word>
+    <word id="106" wordOrder="21" emotion="negative" property="n">水</word>
+    <word id="107" wordOrder="22" emotion="N/A" property="wn">、</word>
+    <word id="108" wordOrder="23" emotion="negative" property="n">噪音</word>
+    <word id="109" wordOrder="24" emotion="negative" property="a">大</word>
+    <word id="110" wordOrder="25" emotion="N/A" property="wd">，</word>
+    <word id="111" wordOrder="26" emotion="N/A" property="v">安装</word>
+    <word id="112" wordOrder="27" emotion="N/A" property="d">不</word>
+    <word id="113" wordOrder="28" emotion="negative" property="vi">到位</word>
+    <word id="114" wordOrder="29" emotion="N/A" property="wd">，</word>
+    <word id="115" wordOrder="30" emotion="N/A" property="nl">售后服务</word>
+    <word id="116" wordOrder="31" emotion="N/A" property="d">不</word>
+    <word id="117" wordOrder="32" emotion="negative" property="a">及时</word>
+    <word id="118" wordOrder="33" emotion="N/A" property="wd">，</word>
+    <word id="119" wordOrder="34" emotion="N/A" property="n">销售商</word>
+    <word id="120" wordOrder="35" emotion="N/A" conjunction="True" effect="same" property="c">或</word>
+    <word id="121" wordOrder="36" emotion="N/A" property="v">生产</word>
+    <word id="122" wordOrder="37" emotion="N/A" property="n">单位</word>
+    <word id="123" wordOrder="38" emotion="negative" property="vd">夸大</word>
+    <word id="124" wordOrder="39" emotion="N/A" property="v">宣传</word>
+  </sentence>
+  <sentence id="6" emotion="N/A">
+    <word id="125" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="126" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="127" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="128" wordOrder="4" emotion="N/A" property="n">专家</word>
+    <word id="129" wordOrder="5" emotion="N/A" property="v">提醒</word>
+    <word id="130" wordOrder="6" emotion="N/A" property="wm">：</word>
+    <word id="131" wordOrder="7" emotion="N/A" property="t">目前</word>
+    <word id="132" wordOrder="8" emotion="N/A" property="n">我国</word>
+    <word id="133" wordOrder="9" emotion="N/A" property="s">南方</word>
+    <word id="134" wordOrder="10" emotion="N/A" property="n">地区</word>
+    <word id="135" wordOrder="11" emotion="N/A" property="d">大多</word>
+    <word id="136" wordOrder="12" emotion="N/A" property="v">使用</word>
+    <word id="137" wordOrder="13" emotion="N/A" property="a">热</word>
+    <word id="138" wordOrder="14" emotion="N/A" property="n">泵</word>
+    <word id="139" wordOrder="15" emotion="N/A" property="k">型</word>
+    <word id="140" wordOrder="16" emotion="N/A" property="n">空调</word>
+    <word id="141" wordOrder="17" emotion="N/A" property="wd">，</word>
+    <word id="142" wordOrder="18" emotion="N/A" property="p">对</word>
+    <word id="143" wordOrder="19" emotion="N/A" property="rzv">这</word>
+    <word id="144" wordOrder="20" emotion="N/A" property="q">类</word>
+    <word id="145" wordOrder="21" emotion="N/A" property="n">空调</word>
+    <word id="146" wordOrder="22" emotion="N/A" property="wd">，</word>
+    <word id="147" wordOrder="23" emotion="N/A" property="n">国家标准</word>
+    <word id="148" wordOrder="24" emotion="N/A" property="n">规定</word>
+    <word id="149" wordOrder="25" emotion="N/A" property="a">良好</word>
+    <word id="150" wordOrder="26" emotion="N/A" property="vn">运行</word>
+    <word id="151" wordOrder="27" emotion="N/A" property="ude1">的</word>
+    <word id="152" wordOrder="28" emotion="N/A" property="f">外</word>
+    <word id="153" wordOrder="29" emotion="N/A" property="ng">机</word>
+    <word id="154" wordOrder="30" emotion="N/A" property="n">环境温度</word>
+    <word id="155" wordOrder="31" emotion="N/A" property="vshi">是</word>
+    <word id="156" wordOrder="32" emotion="N/A" property="b">5</word>
+    <word id="157" wordOrder="33" emotion="N/A" property="q">摄氏度</word>
+    <word id="158" wordOrder="34" emotion="N/A" property="f">以上</word>
+  </sentence>
+</document>

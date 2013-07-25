@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document id="74" name="74.txt">
+  <sentence id="1" emotion="negative" line="2">
+    <word id="1" wordOrder="1" emotion="N/A" property="n">专家</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="v">介绍</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="v">说</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="wd">，</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="rz">这个</word>
+    <word id="6" wordOrder="6" emotion="negative" property="n">病毒</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="v">兼</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="vyou">有</word>
+    <word id="9" wordOrder="9" emotion="N/A" property="wyz">“</word>
+    <word id="10" wordOrder="10" emotion="positive" property="a">欢乐</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="n">时光</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="wyy">”</word>
+    <word id="13" wordOrder="13" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="wyz">“</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="n">蓝色</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="n">代码</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="wyy">”</word>
+    <word id="18" wordOrder="18" emotion="negative" property="n">病毒</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="ude1">的</word>
+    <word id="20" wordOrder="20" emotion="negative" property="n">破坏性</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="wd">，</word>
+    <word id="22" wordOrder="22" emotion="N/A" property="t">目前</word>
+    <word id="23" wordOrder="23" emotion="negative" property="v">感染</word>
+    <word id="24" wordOrder="24" emotion="N/A" property="rzv">这</word>
+    <word id="25" wordOrder="25" emotion="N/A" property="m">一</word>
+    <word id="26" wordOrder="26" emotion="negative" property="n">病毒</word>
+    <word id="27" wordOrder="27" emotion="N/A" property="ude1">的</word>
+    <word id="28" wordOrder="28" emotion="N/A" property="n">用户</word>
+    <word id="29" wordOrder="29" emotion="N/A" property="v">估计</word>
+    <word id="30" wordOrder="30" emotion="N/A" property="d">已经</word>
+    <word id="31" wordOrder="31" emotion="N/A" property="v">超过</word>
+    <word id="32" wordOrder="32" emotion="N/A" property="m">百万</word>
+  </sentence>
+  <sentence id="2" emotion="N/A" line="2">
+    <word id="34" wordOrder="1" emotion="N/A" property="n">用户</word>
+    <word id="35" wordOrder="2" emotion="N/A" conjunction="True" effect="same" property="d">仍然</word>
+    <word id="36" wordOrder="3" emotion="N/A" property="v">要</word>
+    <word id="37" wordOrder="4" emotion="N/A" property="ad">及时</word>
+    <word id="38" wordOrder="5" emotion="N/A" property="v">更新</word>
+    <word id="39" wordOrder="6" emotion="N/A" property="x">ＫＶ３０００</word>
+    <word id="40" wordOrder="7" emotion="N/A" property="uden">等</word>
+    <word id="41" wordOrder="8" emotion="negative" property="v">杀毒</word>
+    <word id="42" wordOrder="9" emotion="N/A" property="n">软件</word>
+    <word id="43" wordOrder="10" emotion="N/A" property="wd">，</word>
+    <word id="44" wordOrder="11" emotion="N/A" property="p">以</word>
+    <word id="45" wordOrder="12" emotion="positive" property="ad">有效</word>
+    <word id="46" wordOrder="13" emotion="negative" property="v">防止</word>
+    <word id="47" wordOrder="14" emotion="negative" property="v">感染</word>
+    <word id="48" wordOrder="15" emotion="N/A" property="rzv">这</word>
+    <word id="49" wordOrder="16" emotion="N/A" property="m">一</word>
+    <word id="50" wordOrder="17" emotion="negative" property="b">恶性</word>
+    <word id="51" wordOrder="18" emotion="negative" property="n">病毒</word>
+  </sentence>
+</document>

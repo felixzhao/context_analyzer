@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="99.txt">
+  <sentence id="1" emotion="N/A">
+    <word id="1" wordOrder="1" emotion="N/A" property="n">汽车</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="w"></word>
+    <word id="3" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="x">　</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="v">存在</word>
+    <word id="6" wordOrder="6" emotion="negative" property="n">问题</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="wm">：</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="a">新</word>
+    <word id="9" wordOrder="9" emotion="N/A" property="n">车</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="v">购买</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="f">后</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="b">短期</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="f">内</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="v">出现</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="n">质量</word>
+    <word id="16" wordOrder="16" emotion="negative" property="n">问题</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="wn">、</word>
+    <word id="18" wordOrder="18" emotion="N/A" property="n">汽车</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="n">配件</word>
+    <word id="20" wordOrder="20" emotion="N/A" conjunction="True" effect="same" property="cc">以及</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="v">安装</word>
+    <word id="22" wordOrder="22" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="23" wordOrder="23" emotion="N/A" property="vn">维修</word>
+    <word id="24" wordOrder="24" emotion="negative" property="n">问题</word>
+  </sentence>
+  <sentence id="2" emotion="N/A">
+    <word id="25" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="26" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="27" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="28" wordOrder="4" emotion="N/A" property="vn">消费</word>
+    <word id="29" wordOrder="5" emotion="negative" property="n">疑问</word>
+    <word id="30" wordOrder="6" emotion="N/A" property="wm">：</word>
+    <word id="31" wordOrder="7" emotion="N/A" property="ns">上海</word>
+    <word id="32" wordOrder="8" emotion="N/A" property="ryt">何时</word>
+    <word id="33" wordOrder="9" emotion="N/A" property="v">能</word>
+    <word id="34" wordOrder="10" emotion="N/A" property="p">对</word>
+    <word id="35" wordOrder="11" emotion="N/A" property="n">轮胎</word>
+    <word id="36" wordOrder="12" emotion="N/A" property="vx">进行</word>
+    <word id="37" wordOrder="13" emotion="N/A" property="n">质量</word>
+    <word id="38" wordOrder="14" emotion="N/A" property="vn">检测</word>
+    <word id="39" wordOrder="15" emotion="N/A" property="ww">？</word>
+    <word id="40" wordOrder="16" emotion="N/A" property="w"></word>
+    <word id="41" wordOrder="17" emotion="N/A" property="x">　</word>
+    <word id="42" wordOrder="18" emotion="N/A" property="x">　</word>
+    <word id="43" wordOrder="19" emotion="N/A" property="n">专家</word>
+    <word id="44" wordOrder="20" emotion="N/A" property="v">解释</word>
+    <word id="45" wordOrder="21" emotion="N/A" property="wm">：</word>
+    <word id="46" wordOrder="22" emotion="N/A" property="n">轮胎</word>
+    <word id="47" wordOrder="23" emotion="N/A" property="vn">检测</word>
+    <word id="48" wordOrder="24" emotion="N/A" property="v">可</word>
+    <word id="49" wordOrder="25" emotion="N/A" property="v">委托</word>
+    <word id="50" wordOrder="26" emotion="N/A" property="ns">北京</word>
+    <word id="51" wordOrder="27" emotion="N/A" property="n">国家</word>
+    <word id="52" wordOrder="28" emotion="N/A" property="n">轮胎</word>
+    <word id="53" wordOrder="29" emotion="N/A" property="n">质量</word>
+    <word id="54" wordOrder="30" emotion="N/A" property="vn">监督</word>
+    <word id="55" wordOrder="31" emotion="N/A" property="n">中心</word>
+    <word id="56" wordOrder="32" emotion="N/A" property="wd">，</word>
+    <word id="57" wordOrder="33" emotion="N/A" property="n">玻璃</word>
+    <word id="58" wordOrder="34" emotion="N/A" property="vn">检测</word>
+    <word id="59" wordOrder="35" emotion="N/A" property="v">可</word>
+    <word id="60" wordOrder="36" emotion="N/A" property="v">委托</word>
+    <word id="61" wordOrder="37" emotion="N/A" property="ns">秦皇岛</word>
+    <word id="62" wordOrder="38" emotion="N/A" property="n">国家</word>
+    <word id="63" wordOrder="39" emotion="N/A" property="n">玻璃</word>
+    <word id="64" wordOrder="40" emotion="N/A" property="vn">质检</word>
+    <word id="65" wordOrder="41" emotion="N/A" property="n">中心</word>
+  </sentence>
+  <sentence id="3" emotion="N/A">
+    <word id="66" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="67" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="68" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="69" wordOrder="4" emotion="N/A" property="ns">上海</word>
+    <word id="70" wordOrder="5" emotion="N/A" property="n">产品质量</word>
+    <word id="71" wordOrder="6" emotion="N/A" property="vn">检验</word>
+    <word id="72" wordOrder="7" emotion="N/A" property="n">所</word>
+    <word id="73" wordOrder="8" emotion="N/A" property="t">目前</word>
+    <word id="74" wordOrder="9" emotion="N/A" property="d">已</word>
+    <word id="75" wordOrder="10" emotion="N/A" property="p">将</word>
+    <word id="76" wordOrder="11" emotion="N/A" property="n">轮胎</word>
+    <word id="77" wordOrder="12" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="78" wordOrder="13" emotion="N/A" property="n">玻璃</word>
+    <word id="79" wordOrder="14" emotion="N/A" property="n">产品</word>
+    <word id="80" wordOrder="15" emotion="N/A" property="ude1">的</word>
+    <word id="81" wordOrder="16" emotion="N/A" property="vn">检验</word>
+    <word id="82" wordOrder="17" emotion="N/A" property="v">列入</word>
+    <word id="83" wordOrder="18" emotion="N/A" property="n">计划</word>
+    <word id="84" wordOrder="19" emotion="N/A" property="wd">，</word>
+    <word id="85" wordOrder="20" emotion="N/A" conjunction="True" effect="same" property="cc">并</word>
+    <word id="86" wordOrder="21" emotion="N/A" property="d">正在</word>
+    <word id="87" wordOrder="22" emotion="N/A" property="v">组织</word>
+    <word id="88" wordOrder="23" emotion="N/A" property="v">实施</word>
+    <word id="89" wordOrder="24" emotion="N/A" property="wd">，</word>
+    <word id="90" wordOrder="25" emotion="N/A" property="m">不久</word>
+    <word id="91" wordOrder="26" emotion="N/A" property="v">可</word>
+    <word id="92" wordOrder="27" emotion="N/A" property="p">对</word>
+    <word id="93" wordOrder="28" emotion="N/A" property="n">车辆</word>
+    <word id="94" wordOrder="29" emotion="N/A" property="ude1">的</word>
+    <word id="95" wordOrder="30" emotion="N/A" property="n">轮胎</word>
+    <word id="96" wordOrder="31" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="97" wordOrder="32" emotion="N/A" property="n">玻璃</word>
+    <word id="98" wordOrder="33" emotion="N/A" property="vx">进行</word>
+    <word id="99" wordOrder="34" emotion="N/A" property="vn">检验</word>
+  </sentence>
+  <sentence id="4" emotion="N/A">
+    <word id="100" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="101" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="102" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="103" wordOrder="4" emotion="N/A" property="n">专家</word>
+    <word id="104" wordOrder="5" emotion="N/A" property="v">提醒</word>
+    <word id="105" wordOrder="6" emotion="N/A" property="wm">：</word>
+    <word id="106" wordOrder="7" emotion="N/A" property="n">消费者</word>
+    <word id="107" wordOrder="8" emotion="N/A" property="v">应当</word>
+    <word id="108" wordOrder="9" emotion="N/A" property="p">通过</word>
+    <word id="109" wordOrder="10" emotion="positive" property="a">正规</word>
+    <word id="110" wordOrder="11" emotion="N/A" property="n">渠道</word>
+    <word id="111" wordOrder="12" emotion="N/A" property="v">购买</word>
+    <word id="112" wordOrder="13" emotion="N/A" property="n">汽车</word>
+    <word id="113" wordOrder="14" emotion="N/A" property="wd">，</word>
+    <word id="114" wordOrder="15" emotion="N/A" property="d">不要</word>
+    <word id="115" wordOrder="16" emotion="N/A" property="v">图</word>
+    <word id="116" wordOrder="17" emotion="negative" property="n">价格便宜</word>
+    <word id="117" wordOrder="18" emotion="N/A" property="v">光顾</word>
+    <word id="118" wordOrder="19" emotion="N/A" property="s">路边</word>
+    <word id="119" wordOrder="20" emotion="N/A" property="d">快</word>
+    <word id="120" wordOrder="21" emotion="N/A" property="v">修</word>
+    <word id="121" wordOrder="22" emotion="N/A" property="n">店</word>
+    <word id="122" wordOrder="23" emotion="N/A" property="wd">，</word>
+    <word id="123" wordOrder="24" emotion="N/A" conjunction="True" effect="same" property="c">以免</word>
+    <word id="124" wordOrder="25" emotion="N/A" property="v">埋</word>
+    <word id="125" wordOrder="26" emotion="N/A" property="f">下</word>
+    <word id="126" wordOrder="27" emotion="N/A" property="d">不</word>
+    <word id="127" wordOrder="28" emotion="negative" property="a">安全</word>
+    <word id="128" wordOrder="29" emotion="N/A" property="ude1">的</word>
+    <word id="129" wordOrder="30" emotion="negative" property="n">隐患</word>
+  </sentence>
+</document>

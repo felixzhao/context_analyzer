@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document id="21" name="21.txt">
+  <sentence id="1" emotion="negative" line="1">
+    <word id="1" wordOrder="1" emotion="N/A" conjunction="True" effect="same" property="c">而且</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="s">内地</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="n">厂商</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="d">一旦</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="v">生产</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="x">EVD</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="rz">每</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="n">台</word>
+    <word id="9" wordOrder="9" emotion="N/A" property="d">仅</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="n">专利费</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="d">就</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="d">至少</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="v">要</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="v">支付</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="m">2</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="q">美元</word>
+	<word id="17" wordOrder="17" emotion="N/A" property="v">＋</word>
+    <word id="18" wordOrder="18" emotion="N/A" property="m">13.8</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="q">美元</word>
+    <word id="20" wordOrder="20" emotion="N/A" property="wd">，</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="n">成本</word>
+    <word id="22" wordOrder="22" emotion="N/A" conjunction="True" effect="same" property="c">不但</word>
+    <word id="23" wordOrder="23" emotion="negative" degree="false" property="d">未</word>
+    <word id="24" wordOrder="24" emotion="positive" property="v">减少</word>
+    <word id="25" wordOrder="25" emotion="N/A" conjunction="True" effect="same" property="c">反而</word>
+    <word id="26" wordOrder="26" emotion="N/A" property="v">有所</word>
+    <word id="27" wordOrder="27" emotion="N/A" property="vi">上升</word>
+  </sentence>
+  <sentence id="2" emotion="N/A" line="2">
+    <word id="28" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="29" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="30" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="31" wordOrder="4" emotion="N/A" property="nz">新科</word>
+    <word id="32" wordOrder="5" emotion="N/A" property="n">新闻</word>
+    <word id="33" wordOrder="6" emotion="N/A" property="n">发言人</word>
+    <word id="34" wordOrder="7" emotion="N/A" property="nr">樊文建</word>
+    <word id="35" wordOrder="8" emotion="N/A" property="p">对</word>
+    <word id="36" wordOrder="9" emotion="N/A" property="wkz">《</word>
+    <word id="37" wordOrder="10" emotion="N/A" property="vg">盈</word>
+    <word id="38" wordOrder="11" emotion="N/A" property="n">周刊</word>
+    <word id="39" wordOrder="12" emotion="N/A" property="wky">》</word>
+    <word id="40" wordOrder="13" emotion="N/A" property="n">记者</word>
+    <word id="41" wordOrder="14" emotion="N/A" property="vn">有关</word>
+    <word id="42" wordOrder="15" emotion="N/A" property="b">上述</word>
+    <word id="43" wordOrder="16" emotion="N/A" property="vn">提问</word>
+    <word id="44" wordOrder="17" emotion="N/A" property="ude1">的</word>
+    <word id="45" wordOrder="18" emotion="N/A" property="vn">回答</word>
+    <word id="46" wordOrder="19" emotion="N/A" property="vshi">是</word>
+    <word id="47" wordOrder="20" emotion="N/A" property="wm">：</word>
+    <word id="48" wordOrder="21" emotion="N/A" property="wyz">“</word>
+    <word id="49" wordOrder="22" emotion="N/A" property="x">EVD</word>
+    <word id="50" wordOrder="23" emotion="N/A" property="d">不</word>
+    <word id="51" wordOrder="24" emotion="N/A" property="vi">兼容</word>
+    <word id="52" wordOrder="25" emotion="N/A" property="x">DVD</word>
+    <word id="53" wordOrder="26" emotion="N/A" property="vshi">是</word>
+    <word id="54" wordOrder="27" emotion="N/A" property="d">不</word>
+    <word id="55" wordOrder="28" emotion="N/A" property="v">可能</word>
+    <word id="56" wordOrder="29" emotion="N/A" property="ude1">的</word>
+    <word id="57" wordOrder="30" emotion="N/A" property="wd">，</word>
+    <word id="58" wordOrder="31" emotion="N/A" property="n">专利</word>
+    <word id="59" wordOrder="32" emotion="N/A" property="n">费</word>
+    <word id="60" wordOrder="33" emotion="N/A" property="m">一分</word>
+    <word id="61" wordOrder="34" emotion="N/A" property="n">钱</word>
+    <word id="62" wordOrder="35" emotion="N/A" property="d">也</word>
+    <word id="63" wordOrder="36" emotion="N/A" property="vl">不可避免</word>
+	<word id="64" wordOrder="37" emotion="N/A" property="wyy">”</word>
+  </sentence>
+  <sentence id="3" emotion="positive" line="2">
+    <word id="65" wordOrder="1" emotion="N/A" conjunction="True" effect="same" property="c">但</word>
+    <word id="66" wordOrder="2" emotion="N/A" property="rr">他</word>
+    <word id="67" wordOrder="3" emotion="N/A" property="d">同时</word>
+    <word id="68" wordOrder="4" emotion="N/A" property="v">表示</word>
+    <word id="69" wordOrder="5" emotion="N/A" property="wd">，</word>
+    <word id="70" wordOrder="6" emotion="N/A" property="v">希望</word>
+    <word id="71" wordOrder="7" emotion="N/A" property="x">EVD</word>
+    <word id="72" wordOrder="8" emotion="N/A" property="n">标准</word>
+    <word id="73" wordOrder="9" emotion="N/A" property="v">能够</word>
+    <word id="74" wordOrder="10" emotion="N/A" property="v">成为</word>
+    <word id="75" wordOrder="11" emotion="N/A" property="n">主流</word>
+    <word id="76" wordOrder="12" emotion="N/A" property="n">格式</word>
+    <word id="77" wordOrder="13" emotion="N/A" property="wd">，</word>
+    <word id="78" wordOrder="14" emotion="N/A" property="p">与</word>
+    <word id="79" wordOrder="15" emotion="N/A" property="x">DVD</word>
+    <word id="80" wordOrder="16" emotion="N/A" property="n">标准</word>
+    <word id="81" wordOrder="17" emotion="N/A" property="wyz">“</word>
+    <word id="82" wordOrder="18" emotion="positive" property="nl">你中有我</word>
+    <word id="83" wordOrder="19" emotion="N/A" property="wn">、</word>
+    <word id="84" wordOrder="20" emotion="positive" property="nl">我中有你</word>
+    <word id="85" wordOrder="21" emotion="N/A" property="wyy">”</word>
+  </sentence>
+  <sentence id="4" emotion="negative" line="2">
+    <word id="86" wordOrder="1" emotion="N/A" property="w"> </word>
+    <word id="87" wordOrder="2" emotion="N/A" property="n">前景</word>
+    <word id="88" wordOrder="3" emotion="negative" degree="false" property="d">未</word>
+    <word id="89" wordOrder="4" emotion="positive" property="vg">卜</word>
+    <word id="90" wordOrder="5" emotion="N/A" property="w"> </word>
+    <word id="91" wordOrder="6" emotion="N/A" property="nsf">好莱坞</word>
+    <word id="92" wordOrder="7" emotion="N/A" property="n">操控</word>
+    <word id="93" wordOrder="8" emotion="N/A" property="x">EVD</word>
+    <word id="94" wordOrder="9" emotion="N/A" property="n">生死权</word>
+  </sentence>
+  <sentence id="5" emotion="negative" line="3">
+    <word id="95" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="96" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="97" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="98" wordOrder="4" emotion="N/A" property="d">就</word>
+    <word id="99" wordOrder="5" emotion="N/A" property="p">在</word>
+    <word id="100" wordOrder="6" emotion="N/A" property="x">EVD</word>
+    <word id="101" wordOrder="7" emotion="N/A" property="vn">上市</word>
+    <word id="102" wordOrder="8" emotion="N/A" property="f">之前</word>
+    <word id="103" wordOrder="9" emotion="N/A" property="wd">，</word>
+    <word id="104" wordOrder="10" emotion="N/A" property="x">DVD</word>
+    <word id="105" wordOrder="11" emotion="N/A" property="n">国际</word>
+    <word id="106" wordOrder="12" emotion="N/A" property="n">巨头</word>
+    <word id="107" wordOrder="13" emotion="N/A" property="nz">飞利浦</word>
+    <word id="108" wordOrder="14" emotion="N/A" property="d">又</word>
+    <word id="109" wordOrder="15" emotion="N/A" property="v">给</word>
+    <word id="110" wordOrder="16" emotion="N/A" property="x">EVD</word>
+    <word id="111" wordOrder="17" emotion="N/A" property="v">泼</word>
+    <word id="112" wordOrder="18" emotion="N/A" property="ule">了</word>
+    <word id="113" wordOrder="19" emotion="N/A" property="m">一</word>
+    <word id="114" wordOrder="20" emotion="N/A" property="q">盆</word>
+    <word id="115" wordOrder="21" emotion="negative" property="n">冷水</word>
+  </sentence>
+  <sentence id="6" emotion="N/A" line="3">
+    <word id="116" wordOrder="1" emotion="N/A" property="rz">其</word>
+    <word id="117" wordOrder="2" emotion="N/A" property="vn">有关</word>
+    <word id="118" wordOrder="3" emotion="N/A" property="n">人士</word>
+    <word id="119" wordOrder="4" emotion="N/A" property="v">指出</word>
+    <word id="120" wordOrder="5" emotion="N/A" property="wd">，</word>
+    <word id="121" wordOrder="6" emotion="N/A" property="x">EVD</word>
+    <word id="122" wordOrder="7" emotion="N/A" property="rz">任何</word>
+    <word id="123" wordOrder="8" emotion="N/A" property="n">新品</word>
+    <word id="124" wordOrder="9" emotion="N/A" property="d">都</word>
+    <word id="125" wordOrder="10" emotion="N/A" property="v">需要</word>
+    <word id="126" wordOrder="11" emotion="N/A" property="n">软件</word>
+    <word id="127" wordOrder="12" emotion="N/A" property="ude1">的</word>
+    <word id="128" wordOrder="13" emotion="N/A" property="vn">支持</word>
+    <word id="129" wordOrder="14" emotion="N/A" property="wd">，</word>
+    <word id="130" wordOrder="15" emotion="N/A" property="vl">也就是说</word>
+    <word id="131" wordOrder="16" emotion="N/A" property="wd">，</word>
+    <word id="132" wordOrder="17" emotion="N/A" property="x">EVD</word>
+    <word id="133" wordOrder="18" emotion="N/A" property="d">还</word>
+    <word id="134" wordOrder="19" emotion="N/A" property="v">需要</word>
+    <word id="135" wordOrder="20" emotion="N/A" property="v">获得</word>
+    <word id="136" wordOrder="21" emotion="N/A" property="n">国际</word>
+    <word id="137" wordOrder="22" emotion="N/A" property="n">娱乐业</word>
+    <word id="138" wordOrder="23" emotion="N/A" property="n">巨头</word>
+    <word id="139" wordOrder="24" emotion="N/A" property="k">们</word>
+    <word id="140" wordOrder="25" emotion="N/A" property="p">在</word>
+    <word id="141" wordOrder="26" emotion="N/A" property="n">技术</word>
+    <word id="142" wordOrder="27" emotion="N/A" property="f">上</word>
+    <word id="143" wordOrder="28" emotion="N/A" property="ude1">的</word>
+    <word id="144" wordOrder="29" emotion="N/A" property="vn">支持</word>
+  </sentence>
+</document>

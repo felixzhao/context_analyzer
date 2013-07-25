@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="86.txt">
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="rzv">这</word>
+    <word wordPrder="1" emotion="N/A" property="vshi">是</word>
+    <word wordPrder="2" emotion="N/A" property="m">一</word>
+    <word wordPrder="3" emotion="N/A" property="q">部</word>
+    <word wordPrder="4" emotion="N/A" degree="false" property="d">没有</word>
+    <word wordPrder="5" emotion="positive" property="a">惊喜</word>
+    <word wordPrder="6" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="7" emotion="N/A" property="n">电影</word>
+    <word wordPrder="8" emotion="N/A" property="wd">，</word>
+    <word wordPrder="9" emotion="N/A" property="d">几乎</word>
+    <word wordPrder="10" emotion="N/A" property="ad">完全</word>
+    <word wordPrder="11" emotion="N/A" property="v">照搬</word>
+    <word wordPrder="12" emotion="N/A" property="ule">了</word>
+    <word wordPrder="13" emotion="N/A" property="p">按照</word>
+    <word wordPrder="14" emotion="N/A" property="n">小说</word>
+    <word wordPrder="15" emotion="N/A" property="f">中</word>
+    <word wordPrder="16" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="17" emotion="N/A" property="n">情节</word>
+    <word wordPrder="18" emotion="N/A" property="wd">，</word>
+    <word wordPrder="19" emotion="N/A" property="n">汤</word>
+    <word wordPrder="20" emotion="N/A" property="x">姆</word>
+    <word wordPrder="21" emotion="N/A" property="x">"</word>
+    <word wordPrder="22" emotion="N/A" property="b">汉</word>
+    <word wordPrder="23" emotion="N/A" property="nrf">克斯</word>
+    <word wordPrder="24" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordPrder="25" emotion="N/A" property="b">奥</word>
+    <word wordPrder="26" emotion="N/A" property="ng">黛</word>
+    <word wordPrder="27" emotion="N/A" property="vg">丽</word>
+    <word wordPrder="28" emotion="N/A" property="x">"</word>
+    <word wordPrder="29" emotion="N/A" property="n">塔</word>
+    <word wordPrder="30" emotion="N/A" property="w"> </word>
+    <word wordPrder="31" emotion="N/A" property="n">图</word>
+    <word wordPrder="32" emotion="N/A" degree="false" property="d">没有</word>
+    <word wordPrder="33" emotion="positive" property="v">惊艳</word>
+    <word wordPrder="35" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="36" emotion="N/A" property="vn">表现</word>
+    <word wordPrder="37" emotion="N/A" property="wd">，</word>
+    <word wordPrder="38" emotion="N/A" property="vi">摄影</word>
+    <word wordPrder="39" emotion="N/A" property="wn">、</word>
+    <word wordPrder="40" emotion="N/A" property="n">音乐</word>
+    <word wordPrder="41" emotion="N/A" property="d">也</word>
+    <word wordPrder="42" emotion="N/A" property="d">就</word>
+    <word wordPrder="43" emotion="N/A" property="vshi">是</word>
+    <word wordPrder="44" emotion="N/A" property="b">中等</word>
+    <word wordPrder="45" emotion="N/A" property="n">水准</word>
+    <word wordPrder="46" emotion="N/A" property="wd">，</word>
+    <word wordPrder="47" emotion="N/A" property="d">倒是</word>
+    <word wordPrder="48" emotion="positive" property="ag">酷酷</word>
+    <word wordPrder="50" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="51" emotion="N/A" property="n">白发</word>
+    <word wordPrder="52" emotion="N/A" property="n">杀手</word>
+    <word wordPrder="53" emotion="N/A" property="x">Salas</word>
+    <word wordPrder="54" emotion="N/A" property="v">抢</word>
+    <word wordPrder="55" emotion="N/A" property="vf">去</word>
+    <word wordPrder="56" emotion="N/A" property="ule">了</word>
+    <word wordPrder="57" emotion="N/A" property="m">不少</word>
+    <word wordPrder="58" emotion="N/A" property="n">风头</word>
+  </sentence>
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="w"> </word>
+    <word wordPrder="1" emotion="N/A" property="v">回想</word>
+    <word wordPrder="2" emotion="N/A" property="t">当初</word>
+    <word wordPrder="3" emotion="N/A" property="v">看</word>
+    <word wordPrder="4" emotion="N/A" property="n">小说</word>
+    <word wordPrder="5" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="6" emotion="N/A" property="ng">时</word>
+    <word wordPrder="7" emotion="N/A" property="ng">侯</word>
+    <word wordPrder="8" emotion="N/A" property="wd">，</word>
+    <word wordPrder="9" emotion="N/A" conjunction="True" effect="same" property="c">尽管</word>
+    <word wordPrder="10" emotion="N/A" property="vshi">是</word>
+    <word wordPrder="11" emotion="N/A" property="nz">英文</word>
+    <word wordPrder="12" emotion="N/A" property="n">原版</word>
+    <word wordPrder="13" emotion="N/A" property="wd">，</word>
+    <word wordPrder="14" emotion="N/A" property="d">仍然</word>
+    <word wordPrder="15" emotion="N/A" property="pbei">被</word>
+    <word wordPrder="16" emotion="N/A" property="a">紧张</word>
+    <word wordPrder="17" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="18" emotion="N/A" property="n">情节</word>
+    <word wordPrder="19" emotion="N/A" property="v">吸引</word>
+    <word wordPrder="20" emotion="N/A" conjunction="True" effect="same" property="cc">而</word>
+    <word wordPrder="21" emotion="positive" property="vl">欲罢不能</word>
+  </sentence>
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="rzv">这</word>
+    <word wordPrder="1" emotion="N/A" property="qv">回</word>
+    <word wordPrder="2" emotion="N/A" property="v">可</word>
+    <word wordPrder="3" emotion="N/A" property="vshi">是</word>
+    <word wordPrder="4" emotion="N/A" property="n">电影</word>
+    <word wordPrder="5" emotion="N/A" property="v">不如</word>
+    <word wordPrder="6" emotion="N/A" property="n">书</word>
+    <word wordPrder="7" emotion="positive" property="a">好看</word>
+    <word wordPrder="8" emotion="N/A" property="y">了</word>
+  </sentence>
+</document>

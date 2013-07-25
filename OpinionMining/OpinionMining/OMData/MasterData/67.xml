@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="67.txt">
+  <sentence id="1" emotion="positive" line="1">
+    <word wordOrder="0" emotion="N/A" property="a">8</word>
+    <word wordOrder="1" emotion="N/A" property="nr1">李</word>
+    <word wordOrder="2" emotion="N/A" property="ns">长春</word>
+    <word wordOrder="3" emotion="N/A" property="x">:</word>
+    <word wordOrder="4" emotion="positive" property="n">充分发挥</word>
+    <word wordOrder="5" emotion="N/A" property="n">互联网</word>
+    <word wordOrder="6" emotion="N/A" property="uden">等</word>
+    <word wordOrder="7" emotion="positive" property="b">新兴</word>
+    <word wordOrder="8" emotion="N/A" property="n">媒体</word>
+    <word wordOrder="9" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="10" emotion="positive" property="n">潜力</word>
+    <word wordOrder="11" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="12" emotion="positive" property="n">优势</word>
+    <word wordOrder="13" emotion="N/A" property="nr1">李</word>
+    <word wordOrder="14" emotion="N/A" property="ns">长春</word>
+    <word wordOrder="15" emotion="N/A" property="x">:</word>
+    <word wordOrder="16" emotion="positive" property="n">充分发挥</word>
+    <word wordOrder="17" emotion="N/A" property="n">互联网</word>
+    <word wordOrder="18" emotion="N/A" property="uden">等</word>
+    <word wordOrder="19" emotion="positive" property="b">新兴</word>
+    <word wordOrder="20" emotion="N/A" property="n">媒体</word>
+    <word wordOrder="21" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="22" emotion="N/A" property="n">潜力</word>
+    <word wordOrder="23" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="24" emotion="positive" property="n">优势</word>
+    <word wordOrder="25" emotion="N/A" property="w"></word>
+    <word wordOrder="26" emotion="N/A" property="x">　</word>
+    <word wordOrder="27" emotion="N/A" property="x">　</word>
+    <word wordOrder="28" emotion="N/A" property="m">千</word>
+    <word wordOrder="29" emotion="N/A" property="nr1">龙</word>
+    <word wordOrder="30" emotion="N/A" property="n">网</word>
+    <word wordOrder="31" emotion="N/A" property="ng">讯</word>
+    <word wordOrder="32" emotion="N/A" property="w"> </word>
+    <word wordOrder="33" emotion="N/A" property="nt">中共中央政治局</word>
+    <word wordOrder="34" emotion="N/A" property="n">常委</word>
+    <word wordOrder="35" emotion="N/A" property="nr1">李</word>
+    <word wordOrder="36" emotion="N/A" property="ns">长春</word>
+    <word wordOrder="37" emotion="N/A" property="t">近日</word>
+    <word wordOrder="38" emotion="N/A" property="p">在</word>
+    <word wordOrder="39" emotion="N/A" property="v">走访</word>
+    <word wordOrder="40" emotion="positive" property="v">慰问</word>
+    <word wordOrder="41" emotion="N/A" property="n">中央</word>
+    <word wordOrder="42" emotion="N/A" property="b">主要</word>
+    <word wordOrder="43" emotion="N/A" property="n">新闻</word>
+    <word wordOrder="44" emotion="N/A" property="n">单位</word>
+    <word wordOrder="45" emotion="N/A" property="ng">时</word>
+    <word wordOrder="46" emotion="positive" property="v">强调</word>
+    <word wordOrder="47" emotion="N/A" property="wd">，</word>
+    <word wordOrder="48" emotion="N/A" property="n">新闻</word>
+    <word wordOrder="49" emotion="N/A" property="vn">宣传</word>
+    <word wordOrder="50" emotion="N/A" property="vn">工作</word>
+    <word wordOrder="51" emotion="N/A" property="v">要</word>
+    <word wordOrder="52" emotion="N/A" property="v">高举</word>
+    <word wordOrder="53" emotion="N/A" property="n">邓小平理论</word>
+    <word wordOrder="54" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="55" emotion="N/A" property="wyz">“</word>
+    <word wordOrder="56" emotion="N/A" property="m">三</word>
+    <word wordOrder="57" emotion="N/A" property="q">个</word>
+    <word wordOrder="58" emotion="N/A" property="n">代表</word>
+    <word wordOrder="59" emotion="N/A" property="wyy">”</word>
+    <word wordOrder="60" emotion="positive" property="a">重要</word>
+    <word wordOrder="61" emotion="N/A" property="n">思想</word>
+    <word wordOrder="62" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="63" emotion="N/A" property="n">旗帜</word>
+    <word wordOrder="64" emotion="N/A" property="wd">，</word>
+    <word wordOrder="65" emotion="N/A" property="p">按照</word>
+    <word wordOrder="66" emotion="N/A" property="n">党</word>
+    <word wordOrder="67" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="68" emotion="N/A" property="m">十六</word>
+    <word wordOrder="69" emotion="N/A" property="a">大</word>
+    <word wordOrder="70" emotion="N/A" property="wn">、</word>
+    <word wordOrder="71" emotion="N/A" property="m">十六</word>
+    <word wordOrder="72" emotion="N/A" property="q">届</word>
+    <word wordOrder="73" emotion="N/A" property="n">三中全会</word>
+    <word wordOrder="74" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="75" emotion="N/A" property="n">全国</word>
+    <word wordOrder="76" emotion="N/A" property="vn">宣传</word>
+    <word wordOrder="77" emotion="N/A" property="n">思想</word>
+    <word wordOrder="78" emotion="N/A" property="vn">工作</word>
+    <word wordOrder="79" emotion="N/A" property="n">会议</word>
+    <word wordOrder="80" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="81" emotion="N/A" property="n">要求</word>
+    <word wordOrder="82" emotion="N/A" property="wd">，</word>
+    <word wordOrder="83" emotion="positive" property="d">紧紧</word>
+    <word wordOrder="84" emotion="N/A" property="v">围绕</word>
+    <word wordOrder="85" emotion="N/A" property="n">党</word>
+    <word wordOrder="86" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="87" emotion="N/A" property="n">国家</word>
+    <word wordOrder="88" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="89" emotion="N/A" property="n">中心</word>
+    <word wordOrder="90" emotion="N/A" property="vn">工作</word>
+    <word wordOrder="91" emotion="N/A" property="wd">，</word>
+    <word wordOrder="92" emotion="N/A" property="v">把握</word>
+    <word wordOrder="93" emotion="positive" property="a">正确</word>
+    <word wordOrder="94" emotion="N/A" property="n">导向</word>
+    <word wordOrder="95" emotion="N/A" property="wd">，</word>
+    <word wordOrder="96" emotion="positive" property="v">坚持</word>
+    <word wordOrder="97" emotion="positive" property="vl">求真务实</word>
+    <word wordOrder="98" emotion="N/A" property="wd">，</word>
+    <word wordOrder="99" emotion="positive" property="vl">解放思想</word>
+    <word wordOrder="100" emotion="N/A" property="wn">、</word>
+    <word wordOrder="101" emotion="positive" property="vl">实事求是</word>
+    <word wordOrder="102" emotion="N/A" property="wn">、</word>
+    <word wordOrder="103" emotion="N/A" property="p">与</word>
+    <word wordOrder="104" emotion="N/A" property="ng">时</word>
+    <word wordOrder="105" emotion="N/A" property="dg">俱</word>
+    <word wordOrder="106" emotion="N/A" property="vf">进</word>
+    <word wordOrder="107" emotion="N/A" property="wd">，</word>
+    <word wordOrder="108" emotion="positive" property="v">贴近</word>
+    <word wordOrder="109" emotion="N/A" property="n">实际</word>
+    <word wordOrder="110" emotion="N/A" property="wn">、</word>
+    <word wordOrder="111" emotion="positive" property="v">贴近</word>
+    <word wordOrder="112" emotion="N/A" property="vn">生活</word>
+    <word wordOrder="113" emotion="N/A" property="wn">、</word>
+    <word wordOrder="114" emotion="positive" property="v">贴近</word>
+    <word wordOrder="115" emotion="N/A" property="n">群众</word>
+    <word wordOrder="116" emotion="N/A" property="wd">，</word>
+    <word wordOrder="117" emotion="positive" property="d">不断</word>
+    <word wordOrder="118" emotion="positive" property="v">开创</word>
+    <word wordOrder="119" emotion="N/A" property="n">新闻</word>
+    <word wordOrder="120" emotion="N/A" property="vn">宣传</word>
+    <word wordOrder="121" emotion="N/A" property="vn">工作</word>
+    <word wordOrder="122" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="123" emotion="positive" property="a">新</word>
+    <word wordOrder="124" emotion="N/A" property="n">局面</word>
+  </sentence>
+</document>

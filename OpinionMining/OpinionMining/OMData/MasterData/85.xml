@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="85.txt">
+  <sentence emotion="N/A">
+    <word wordOrder="0" emotion="N/A" property="wyy">”</word>
+    <word wordOrder="1" emotion="N/A" property="w"></word>
+    <word wordOrder="2" emotion="N/A" property="x">　</word>
+    <word wordOrder="3" emotion="N/A" property="x">　</word>
+    <word wordOrder="4" emotion="N/A" conjunction="True" effect="same" property="c">此外</word>
+    <word wordOrder="5" emotion="N/A" property="wd">，</word>
+    <word wordOrder="6" emotion="N/A" property="ag">微</word>
+    <word wordOrder="7" emotion="N/A" property="a">软</word>
+    <word wordOrder="8" emotion="N/A" property="n">计划</word>
+    <word wordOrder="9" emotion="N/A" property="p">于</word>
+    <word wordOrder="10" emotion="N/A" property="m">2005年</word>
+    <word wordOrder="11" emotion="N/A" property="p">在</word>
+    <word wordOrder="12" emotion="N/A" property="n">全球</word>
+    <word wordOrder="13" emotion="N/A" property="n">范围</word>
+    <word wordOrder="14" emotion="N/A" property="f">内</word>
+    <word wordOrder="15" emotion="N/A" property="v">扩大</word>
+    <word wordOrder="16" emotion="N/A" property="x">Ｗｉｎｄｏｗｓ</word>
+    <word wordOrder="17" emotion="positive" property="n">正版</word>
+    <word wordOrder="18" emotion="positive" property="vn">增值</word>
+    <word wordOrder="19" emotion="N/A" property="n">计划</word>
+    <word wordOrder="20" emotion="N/A" property="v">实施</word>
+    <word wordOrder="21" emotion="N/A" property="n">范围</word>
+  </sentence>
+  <sentence emotion="N/A">
+    <word wordOrder="0" emotion="N/A" property="p">自</word>
+    <word wordOrder="1" emotion="N/A" property="m">2005年</word>
+    <word wordOrder="2" emotion="N/A" property="t">2月</word>
+    <word wordOrder="3" emotion="N/A" property="t">7日</word>
+    <word wordOrder="4" emotion="N/A" property="f">起</word>
+    <word wordOrder="5" emotion="N/A" property="wd">，</word>
+    <word wordOrder="6" emotion="positive" property="n">正版</word>
+    <word wordOrder="7" emotion="N/A" property="x">Ｗｉｎｄｏｗｓ</word>
+    <word wordOrder="8" emotion="N/A" property="b">简体</word>
+    <word wordOrder="9" emotion="N/A" property="n">中文版</word>
+    <word wordOrder="10" emotion="N/A" property="n">用户</word>
+    <word wordOrder="11" emotion="N/A" property="d">将</word>
+    <word wordOrder="12" emotion="N/A" property="v">会</word>
+    <word wordOrder="13" emotion="N/A" property="p">从</word>
+    <word wordOrder="14" emotion="N/A" property="v">下载</word>
+    <word wordOrder="15" emotion="N/A" property="n">中心</word>
+    <word wordOrder="16" emotion="N/A" property="f">中</word>
+    <word wordOrder="17" emotion="N/A" property="v">得到</word>
+    <word wordOrder="18" emotion="N/A" property="b">额外</word>
+    <word wordOrder="19" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="20" emotion="N/A" property="n">软件</word>
+    <word wordOrder="21" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="22" emotion="positive" property="vn">增值</word>
+    <word wordOrder="23" emotion="N/A" property="vn">服务</word>
+    <word wordOrder="24" emotion="N/A" property="wd">，</word>
+    <word wordOrder="25" emotion="N/A" property="rz">其中</word>
+    <word wordOrder="26" emotion="N/A" property="v">包括</word>
+    <word wordOrder="27" emotion="N/A" property="wm">：</word>
+    <word wordOrder="28" emotion="N/A" property="m">五</word>
+    <word wordOrder="29" emotion="N/A" property="q">折</word>
+    <word wordOrder="30" emotion="positive" property="v">享受</word>
+    <word wordOrder="31" emotion="N/A" property="x">ＭＳＮ</word>
+    <word wordOrder="32" emotion="N/A" property="w"> </word>
+    <word wordOrder="33" emotion="N/A" property="x">Ｚｏｎｅ</word>
+    <word wordOrder="34" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="35" emotion="N/A" property="n">电脑游戏</word>
+    <word wordOrder="36" emotion="N/A" property="n">套装</word>
+    <word wordOrder="37" emotion="N/A" property="wn">、</word>
+    <word wordOrder="38" emotion="N/A" property="ns">中国</word>
+    <word wordOrder="39" emotion="N/A" property="n">农历</word>
+    <word wordOrder="40" emotion="N/A" property="n">日历</word>
+    <word wordOrder="41" emotion="N/A" property="uden">等</word>
+  </sentence>
+</document>

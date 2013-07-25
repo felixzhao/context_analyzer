@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="3.txt" id="3">
+  <sentence id="1" emotion="positive" line="1">
+    <word id="1" wordOrder="1" emotion="N/A" property="n">2</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="ns">中国</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="n">盲人</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="n">计算机系统</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="vi">问世</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="ns">中国</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="n">盲人</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="n">计算机系统</word>
+    <word id="9" wordOrder="9" emotion="positive" property="vi">问世</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="w"></word>
+    <word id="11" wordOrder="11" emotion="N/A" property="x">　</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="x">　</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="m">千</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="nr1">龙</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="n">网</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="ng">讯</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="w"> </word>
+    <word id="18" wordOrder="18" emotion="N/A" property="v">看</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="d">不</word>
+    <word id="20" wordOrder="20" emotion="N/A" property="v">见</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="wd">，</word>
+    <word id="22" wordOrder="22" emotion="N/A" property="ryv">怎</word>
+    <word id="23" wordOrder="23" emotion="N/A" property="v">能</word>
+    <word id="24" wordOrder="24" emotion="N/A" property="n">操作计算机</word>
+    <word id="25" wordOrder="25" emotion="N/A" property="ww">？</word>
+    <word id="26" wordOrder="26" emotion="N/A" property="n">记者</word>
+    <word id="27" wordOrder="27" emotion="N/A" property="t">昨日</word>
+    <word id="28" wordOrder="28" emotion="N/A" property="v">获悉</word>
+    <word id="29" wordOrder="29" emotion="N/A" property="wd">，</word>
+    <word id="30" wordOrder="30" emotion="N/A" property="p">由</word>
+    <word id="31" wordOrder="31" emotion="N/A" property="nt">中国科学院</word>
+    <word id="32" wordOrder="32" emotion="N/A" property="vn">有关</word>
+    <word id="33" wordOrder="33" emotion="N/A" property="n">部门</word>
+    <word id="34" wordOrder="34" emotion="N/A" property="v">研制</word>
+    <word id="35" wordOrder="35" emotion="positive" property="a">成功</word>
+    <word id="36" wordOrder="36" emotion="N/A" property="ude1">的</word>
+    <word id="37" wordOrder="37" emotion="N/A" property="wyz">“</word>
+    <word id="38" wordOrder="38" emotion="N/A" property="ns">中国</word>
+    <word id="39" wordOrder="39" emotion="N/A" property="n">盲文</word>
+    <word id="40" wordOrder="40" emotion="N/A" property="n">计算机系统</word>
+    <word id="41" wordOrder="41" emotion="N/A" property="wyy">”</word>
+    <word id="42" wordOrder="42" emotion="N/A" property="p">通过</word>
+    <word id="43" wordOrder="43" emotion="N/A" property="v">验证</word>
+    <word id="44" wordOrder="44" emotion="N/A" property="wd">，</word>
+    <word id="45" wordOrder="45" emotion="N/A" property="n">盲人</word>
+    <word id="46" wordOrder="46" emotion="N/A" property="d">也</word>
+    <word id="47" wordOrder="47" emotion="N/A" property="v">可以</word>
+    <word id="48" wordOrder="48" emotion="N/A" property="ad">充分</word>
+    <word id="49" wordOrder="49" emotion="positive" property="v">享受</word>
+    <word id="50" wordOrder="50" emotion="N/A" property="n">计算机</word>
+    <word id="51" wordOrder="51" emotion="N/A" property="v">带来</word>
+    <word id="52" wordOrder="52" emotion="N/A" property="ude1">的</word>
+    <word id="53" wordOrder="53" emotion="positive" property="a">便利</word>
+    <word id="54" wordOrder="54" emotion="N/A" property="y">了</word>
+  </sentence>
+  <sentence id="2" emotion="positive" line="1">
+    <word id="55" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="56" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="57" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="58" wordOrder="4" emotion="N/A" property="rz">该</word>
+    <word id="59" wordOrder="5" emotion="N/A" property="n">系统</word>
+    <word id="60" wordOrder="6" emotion="N/A" property="p">通过</word>
+    <word id="61" wordOrder="7" emotion="positive" property="a">特殊</word>
+    <word id="62" wordOrder="8" emotion="N/A" property="ude1">的</word>
+    <word id="63" wordOrder="9" emotion="N/A" property="n">键盘技术</word>
+    <word id="64" wordOrder="10" emotion="N/A" property="v">使</word>
+    <word id="65" wordOrder="11" emotion="N/A" property="n">盲人</word>
+    <word id="66" wordOrder="12" emotion="N/A" property="n">用户</word>
+    <word id="67" wordOrder="13" emotion="N/A" property="v">可以</word>
+    <word id="68" wordOrder="14" emotion="N/A" property="p">用</word>
+    <word id="69" wordOrder="15" emotion="N/A" property="n">盲文</word>
+    <word id="70" wordOrder="16" emotion="N/A" property="n">点字</word>
+    <word id="71" wordOrder="17" emotion="N/A" property="wn">、</word>
+    <word id="72" wordOrder="18" emotion="N/A" property="n">键盘拼音</word>
+    <word id="73" wordOrder="19" emotion="N/A" conjunction="True" effect="same" property="cc">及</word>
+    <word id="74" wordOrder="20" emotion="N/A" property="p">基于</word>
+    <word id="75" wordOrder="21" emotion="N/A" property="n">语音</word>
+    <word id="76" wordOrder="22" emotion="N/A" property="vn">提示</word>
+    <word id="77" wordOrder="23" emotion="N/A" property="ude1">的</word>
+    <word id="78" wordOrder="24" emotion="positive" property="n">标准</word>
+    <word id="79" wordOrder="25" emotion="N/A" property="vn">输入</word>
+    <word id="80" wordOrder="26" emotion="N/A" property="n">法</word>
+    <word id="81" wordOrder="27" emotion="N/A" property="uden">等</word>
+    <word id="82" wordOrder="28" emotion="N/A" property="m">多种</word>
+    <word id="83" wordOrder="29" emotion="N/A" property="n">方式</word>
+    <word id="84" wordOrder="30" emotion="N/A" property="vn">输入</word>
+    <word id="85" wordOrder="31" emotion="N/A" property="n">盲文</word>
+    <word id="86" wordOrder="32" emotion="N/A" property="wn">、</word>
+    <word id="87" wordOrder="33" emotion="N/A" property="nz">汉字</word>
+    <word id="88" wordOrder="34" emotion="N/A" property="wn">、</word>
+    <word id="89" wordOrder="35" emotion="N/A" property="nz">英文</word>
+    <word id="90" wordOrder="36" emotion="N/A" property="x">ＡＳＣＩＩ</word>
+    <word id="91" wordOrder="37" emotion="N/A" property="v">码</word>
+    <word id="92" wordOrder="38" emotion="N/A" property="uden">等</word>
+    <word id="93" wordOrder="39" emotion="N/A" property="m">多种</word>
+    <word id="94" wordOrder="40" emotion="N/A" property="n">文字</word>
+    <word id="95" wordOrder="41" emotion="N/A" property="wd">，</word>
+    <word id="96" wordOrder="42" emotion="N/A" conjunction="True" effect="same" property="cc">并</word>
+    <word id="97" wordOrder="43" emotion="N/A" property="p">在</word>
+    <word id="98" wordOrder="44" emotion="N/A" property="n">键盘</word>
+    <word id="99" wordOrder="45" emotion="N/A" property="v">输入</word>
+    <word id="100" wordOrder="46" emotion="N/A" property="ng">时</word>
+    <word id="101" wordOrder="47" emotion="N/A" property="v">提供</word>
+    <word id="102" wordOrder="48" emotion="N/A" property="n">语音</word>
+    <word id="103" wordOrder="49" emotion="N/A" property="vn">解释</word>
+    <word id="104" wordOrder="50" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="105" wordOrder="51" emotion="N/A" property="nz">联想</word>
+    <word id="106" wordOrder="52" emotion="N/A" property="n">词</word>
+    <word id="107" wordOrder="53" emotion="N/A" property="wd">，</word>
+    <word id="108" wordOrder="54" emotion="N/A" property="v">提供</word>
+    <word id="109" wordOrder="55" emotion="N/A" property="nz">汉语</word>
+    <word id="110" wordOrder="56" emotion="N/A" property="v">到</word>
+    <word id="111" wordOrder="57" emotion="N/A" property="m">多种</word>
+    <word id="112" wordOrder="58" emotion="N/A" property="n">盲文</word>
+    <word id="113" wordOrder="59" emotion="N/A" property="n">编码</word>
+    <word id="114" wordOrder="60" emotion="N/A" property="ude1">的</word>
+    <word id="115" wordOrder="61" emotion="positive" property="b">自动</word>
+    <word id="116" wordOrder="62" emotion="N/A" property="n">翻译转换</word>
+    <word id="117" wordOrder="63" emotion="N/A" property="wd">，</word>
+    <word id="118" wordOrder="64" emotion="N/A" property="v">让</word>
+    <word id="119" wordOrder="65" emotion="N/A" property="n">盲人</word>
+    <word id="120" wordOrder="66" emotion="N/A" property="d">也</word>
+    <word id="121" wordOrder="67" emotion="N/A" property="v">能</word>
+    <word id="122" wordOrder="68" emotion="N/A" property="ad">直接</word>
+    <word id="123" wordOrder="69" emotion="N/A" property="wyz">“</word>
+    <word id="124" wordOrder="70" emotion="N/A" property="v">读</word>
+    <word id="125" wordOrder="71" emotion="N/A" property="wyy">”</word>
+    <word id="126" wordOrder="72" emotion="N/A" property="n">汉字文章</word>
+  </sentence>
+</document>

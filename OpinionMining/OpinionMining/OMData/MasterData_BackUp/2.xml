@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="2.txt" id="2">
+  <sentence id="1" emotion="negative" line="1">
+    <word id="1" wordOrder="1" emotion="negative" property="n">病毒</word>
+    <word id="2" wordOrder="2" emotion="negative" property="v">传染</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="ng">时</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="v">会</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="vn">搜索</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="n">用户</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="rzs">本地</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="ude1">的</word>
+    <word id="9" wordOrder="9" emotion="N/A" property="x">bmp</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="wn">、</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="x">rtf</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="wn">、</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="x">doc</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="wn">、</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="x">txt</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="wn">、</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="x">gif</word>
+    <word id="18" wordOrder="18" emotion="N/A" property="wn">、</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="x">jpeg</word>
+    <word id="20" wordOrder="20" emotion="N/A" property="wn">、</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="x">jpg</word>
+    <word id="22" wordOrder="22" emotion="N/A" property="n">文件</word>
+    <word id="23" wordOrder="23" emotion="N/A" property="wd">，</word>
+    <word id="24" wordOrder="24" emotion="N/A" property="n">当文件</word>
+    <word id="25" wordOrder="25" emotion="N/A" property="v">小于</word>
+    <word id="26" wordOrder="26" emotion="N/A" property="x">80k</word>
+    <word id="27" wordOrder="27" emotion="N/A" property="ng">时</word>
+    <word id="28" wordOrder="28" emotion="N/A" property="wd">，</word>
+    <word id="29" wordOrder="29" emotion="N/A" property="d">就</word>
+    <word id="30" wordOrder="30" emotion="N/A" property="v">会</word>
+    <word id="31" wordOrder="31" emotion="N/A" property="p">将</word>
+    <word id="32" wordOrder="32" emotion="negative" property="n">病毒</word>
+    <word id="33" wordOrder="33" emotion="negative" property="n">蠕虫</word>
+    <word id="34" wordOrder="34" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="35" wordOrder="35" emotion="N/A" property="n">用户</word>
+    <word id="36" wordOrder="36" emotion="N/A" property="n">文件</word>
+    <word id="37" wordOrder="37" emotion="N/A" property="v">捆绑</word>
+    <word id="38" wordOrder="38" emotion="N/A" property="p">在</word>
+    <word id="39" wordOrder="39" emotion="N/A" property="s">一起</word>
+    <word id="40" wordOrder="40" emotion="N/A" property="wd">，</word>
+    <word id="41" wordOrder="41" emotion="N/A" conjunction="True" effect="same" property="cc">并</word>
+    <word id="42" wordOrder="42" emotion="N/A" property="p">通过</word>
+    <word id="43" wordOrder="43" emotion="N/A" property="n">邮件</word>
+    <word id="44" wordOrder="44" emotion="N/A" property="n">附件</word>
+    <word id="45" wordOrder="45" emotion="N/A" property="ude1">的</word>
+    <word id="46" wordOrder="46" emotion="N/A" property="n">形式</word>
+    <word id="47" wordOrder="47" emotion="N/A" property="v">发</word>
+    <word id="48" wordOrder="48" emotion="N/A" property="v">送给</word>
+    <word id="49" wordOrder="49" emotion="N/A" property="rz">其它</word>
+    <word id="50" wordOrder="50" emotion="N/A" property="n">用户</word>
+  </sentence>
+  <sentence id="2" emotion="negative" line="1">
+    <word id="51" wordOrder="1" emotion="N/A" property="v">收到</word>
+    <word id="52" wordOrder="2" emotion="N/A" property="n">邮件</word>
+    <word id="53" wordOrder="3" emotion="N/A" property="ude1">的</word>
+    <word id="54" wordOrder="4" emotion="N/A" property="n">用户</word>
+    <word id="55" wordOrder="5" emotion="N/A" property="v">打开</word>
+    <word id="56" wordOrder="6" emotion="N/A" property="n">附件</word>
+    <word id="57" wordOrder="7" emotion="N/A" property="ng">时</word>
+    <word id="58" wordOrder="8" emotion="N/A" property="wd">，</word>
+    <word id="59" wordOrder="9" emotion="negative" property="n">病毒</word>
+    <word id="60" wordOrder="10" emotion="N/A" property="d">就</word>
+    <word id="61" wordOrder="11" emotion="N/A" property="v">会</word>
+    <word id="62" wordOrder="12" emotion="N/A" property="pbei">被</word>
+    <word id="63" wordOrder="13" emotion="N/A" property="v">执行</word>
+    <word id="64" wordOrder="14" emotion="N/A" property="wd">，</word>
+    <word id="65" wordOrder="15" emotion="N/A" conjunction="True" effect="same" property="c">同时</word>
+    <word id="66" wordOrder="16" emotion="N/A" property="rr">它</word>
+    <word id="67" wordOrder="17" emotion="N/A" property="d">将</word>
+    <word id="68" wordOrder="18" emotion="N/A" property="v">捆绑</word>
+    <word id="69" wordOrder="19" emotion="N/A" property="ude1">的</word>
+    <word id="70" wordOrder="20" emotion="N/A" property="n">文件</word>
+    <word id="71" wordOrder="21" emotion="N/A" property="v">释放</word>
+    <word id="72" wordOrder="22" emotion="N/A" property="v">到</word>
+    <word id="73" wordOrder="23" emotion="N/A" property="b">临时</word>
+    <word id="74" wordOrder="24" emotion="N/A" property="n">目录</word>
+    <word id="75" wordOrder="25" emotion="N/A" property="wd">，</word>
+    <word id="76" wordOrder="26" emotion="N/A" conjunction="True" effect="same" property="cc">并</word>
+    <word id="77" wordOrder="27" emotion="N/A" property="v">打开</word>
+    <word id="78" wordOrder="28" emotion="N/A" property="rr">它</word>
+    <word id="79" wordOrder="29" emotion="N/A" property="p">以</word>
+    <word id="80" wordOrder="30" emotion="negative" property="v">伪装</word>
+    <word id="81" wordOrder="31" emotion="N/A" property="rr">自己</word>
+  </sentence>
+</document>

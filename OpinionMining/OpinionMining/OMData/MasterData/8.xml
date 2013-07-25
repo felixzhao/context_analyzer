@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="8.txt">
+  <sentence id="1" emotion="N/A" line="1">
+    <word wordOrder="1" emotion="N/A" property="vn">
+      有关
+    </word>
+    <word wordOrder="2" emotion="N/A" property="vn">
+      生存
+    </word>
+    <word wordOrder="3" emotion="N/A" conjunction="True" effect="same" property="cc">
+      与
+    </word>
+    <word wordOrder="4" emotion="N/A" property="vi">
+      死亡
+    </word>
+    <word wordOrder="5" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="6" emotion="negative" property="a">
+      艰难
+    </word>
+    <word wordOrder="7" emotion="N/A" property="n">
+      命题
+    </word>
+    <word wordOrder="8" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="9" emotion="N/A" property="d">
+      依然
+    </word>
+    <word wordOrder="10" emotion="N/A" property="v">
+      像
+    </word>
+    <word wordOrder="11" emotion="N/A" property="n">
+      迷雾
+    </word>
+    <word wordOrder="12" emotion="N/A" property="uyy">
+      一样
+    </word>
+    <word wordOrder="13" emotion="N/A" property="v">
+      笼罩
+    </word>
+    <word wordOrder="14" emotion="N/A" property="uzhe">
+      着
+    </word>
+    <word wordOrder="15" emotion="N/A" property="x">
+      EVD
+    </word>
+  </sentence>
+  <sentence id="2" emotion="N/A" line="1">
+    <word wordOrder="1" emotion="N/A" property="w">
+    </word>
+    <word wordOrder="2" emotion="N/A" property="n">
+      联盟
+    </word>
+    <word wordOrder="3" emotion="negative" property="v">
+      瓦解
+    </word>
+    <word wordOrder="4" emotion="N/A" property="w">
+    </word>
+    <word wordOrder="5" emotion="N/A" property="x">
+      EVD
+    </word>
+    <word wordOrder="6" emotion="N/A" property="n">
+      遭遇
+    </word>
+    <word wordOrder="7" emotion="N/A" property="n">
+      生死
+    </word>
+    <word wordOrder="8" emotion="N/A" property="v">
+      变
+    </word>
+    <word wordOrder="9" emotion="N/A" property="n">
+      局
+    </word>
+    <word wordOrder="10" emotion="N/A" property="w">
+    </word>
+    <word wordOrder="11" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="12" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="13" emotion="N/A" property="d">
+      的确
+    </word>
+    <word wordOrder="14" emotion="N/A" property="vyou">
+      有
+    </word>
+    <word wordOrder="15" emotion="N/A" property="an">
+      必要
+    </word>
+    <word wordOrder="16" emotion="N/A" property="v">
+      回顾
+    </word>
+    <word wordOrder="17" emotion="N/A" property="mq">
+      一下
+    </word>
+    <word wordOrder="18" emotion="N/A" property="t">
+      当时
+    </word>
+    <word wordOrder="19" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="20" emotion="N/A" property="n">
+      情景
+    </word>
+  </sentence>
+  <sentence id="3" emotion="N/A" line="3">
+    <word wordOrder="1" emotion="N/A" property="w">
+    </word>
+    <word wordOrder="2" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="3" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="4" emotion="N/A" property="d">
+      刚刚
+    </word>
+    <word wordOrder="5" emotion="N/A" property="v">
+      找到
+    </word>
+    <word wordOrder="6" emotion="N/A" property="p">
+      与
+    </word>
+    <word wordOrder="7" emotion="N/A" property="b">
+      跨国
+    </word>
+    <word wordOrder="8" emotion="N/A" property="n">
+      巨头
+    </word>
+    <word wordOrder="9" emotion="positive" property="vl">
+      平起平坐
+    </word>
+    <word wordOrder="10" emotion="N/A" property="n">
+      感觉
+    </word>
+    <word wordOrder="11" emotion="N/A" property="d">
+      还
+    </word>
+    <word wordOrder="12" emotion="negative" property="v">
+      不足
+    </word>
+    <word wordOrder="13" emotion="N/A" property="m">
+      一
+    </word>
+    <word wordOrder="14" emotion="N/A" property="q">
+      个
+    </word>
+    <word wordOrder="15" emotion="N/A" property="n">
+      月
+    </word>
+    <word wordOrder="16" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="17" emotion="N/A" property="ns">
+      中国
+    </word>
+    <word wordOrder="18" emotion="N/A" property="m">
+      九
+    </word>
+    <word wordOrder="19" emotion="N/A" property="a">
+      大
+    </word>
+    <word wordOrder="20" emotion="N/A" property="n">
+      碟机
+    </word>
+    <word wordOrder="21" emotion="N/A" property="n">
+      企业
+    </word>
+    <word wordOrder="22" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="23" emotion="N/A" property="m">
+      2003年
+    </word>
+    <word wordOrder="24" emotion="N/A" property="t">
+      12月
+    </word>
+    <word wordOrder="25" emotion="N/A" property="t">
+      7日
+    </word>
+    <word wordOrder="26" emotion="N/A" property="d">
+      就
+    </word>
+    <word wordOrder="27" emotion="N/A" property="v">
+      遭遇
+    </word>
+    <word wordOrder="28" emotion="N/A" property="vi">
+      当头
+    </word>
+    <word wordOrder="29" emotion="N/A" property="m">
+      一
+    </word>
+    <word wordOrder="30" emotion="N/A" property="vg">
+      击
+    </word>
+  </sentence>
+  <sentence id="4" emotion="N/A" line="4">
+    <word wordOrder="1" emotion="N/A" property="w">
+    </word>
+    <word wordOrder="2" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="3" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="4" emotion="N/A" property="rzv">
+      这
+    </word>
+    <word wordOrder="5" emotion="N/A" property="m">
+      一
+    </word>
+    <word wordOrder="6" emotion="N/A" property="qt">
+      天
+    </word>
+    <word wordOrder="7" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="8" emotion="N/A" property="nz">
+      东芝
+    </word>
+    <word wordOrder="9" emotion="N/A" property="p">
+      与
+    </word>
+    <word wordOrder="10" emotion="N/A" property="x">
+      NEC
+    </word>
+    <word wordOrder="11" emotion="N/A" property="v">
+      提出
+    </word>
+    <word wordOrder="12" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="13" emotion="N/A" property="a">
+      新
+    </word>
+    <word wordOrder="14" emotion="N/A" property="n">
+      一代
+    </word>
+    <word wordOrder="15" emotion="N/A" property="x">
+      DVD
+    </word>
+    <word wordOrder="16" emotion="N/A" property="n">
+      标准
+    </word>
+    <word wordOrder="17" emotion="N/A" property="wp">
+      ——
+    </word>
+    <word wordOrder="18" emotion="N/A" property="wyz">
+      “
+    </word>
+    <word wordOrder="19" emotion="N/A" property="x">
+      HDDVD
+    </word>
+    <word wordOrder="20" emotion="N/A" property="wyy">
+      ”
+    </word>
+    <word wordOrder="21" emotion="N/A" property="d">
+      已
+    </word>
+    <word wordOrder="22" emotion="N/A" property="v">
+      取得
+    </word>
+    <word wordOrder="23" emotion="N/A" property="n">
+      国际
+    </word>
+    <word wordOrder="24" emotion="N/A" property="wyz">
+      “
+    </word>
+    <word wordOrder="25" emotion="N/A" property="x">
+      DVD
+    </word>
+    <word wordOrder="26" emotion="N/A" property="n">
+      论坛
+    </word>
+    <word wordOrder="27" emotion="N/A" property="wyy">
+      ”
+    </word>
+    <word wordOrder="28" emotion="positive" property="vn">
+      支持
+    </word>
+    <word wordOrder="29" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="30" emotion="N/A" property="pbei">
+      被
+    </word>
+    <word wordOrder="31" emotion="N/A" property="v">
+      确定
+    </word>
+    <word wordOrder="32" emotion="N/A" property="p">
+      为
+    </word>
+    <word wordOrder="33" emotion="N/A" property="a">
+      新
+    </word>
+    <word wordOrder="34" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="35" emotion="N/A" property="vn">
+      通用
+    </word>
+    <word wordOrder="36" emotion="N/A" property="n">
+      标准
+    </word>
+  </sentence>
+  <sentence id="5" emotion="N/A" line="4">
+    <word wordOrder="1" emotion="N/A" property="rzv">
+      这
+    </word>
+    <word wordOrder="2" emotion="N/A" property="v">
+      意味着
+    </word>
+    <word wordOrder="3" emotion="N/A" property="wyz">
+      “
+    </word>
+    <word wordOrder="4" emotion="N/A" property="n">
+      红色激光
+    </word>
+    <word wordOrder="5" emotion="N/A" property="vn">
+      存储
+    </word>
+    <word wordOrder="6" emotion="N/A" property="wyy">
+      ”
+    </word>
+    <word wordOrder="7" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="8" emotion="N/A" property="n">
+      代表
+    </word>
+    <word wordOrder="9" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="10" emotion="N/A" property="n">
+      我国
+    </word>
+    <word wordOrder="11" emotion="N/A" property="rr">
+      自己
+    </word>
+    <word wordOrder="12" emotion="N/A" property="v">
+      拥有
+    </word>
+    <word wordOrder="13" emotion="N/A" property="n">
+      知识
+    </word>
+    <word wordOrder="14" emotion="N/A" property="n">
+      产权
+    </word>
+    <word wordOrder="15" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="16" emotion="N/A" property="x">
+      EVD
+    </word>
+    <word wordOrder="17" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="18" emotion="N/A" property="d">
+      几乎
+    </word>
+    <word wordOrder="19" emotion="N/A" property="d">
+      已经
+    </word>
+    <word wordOrder="20" emotion="negative" property="vi">
+      无望
+    </word>
+    <word wordOrder="21" emotion="N/A" property="v">
+      成为
+    </word>
+    <word wordOrder="22" emotion="N/A" property="n">
+      行业
+    </word>
+    <word wordOrder="23" emotion="positive" property="n">
+      标准
+    </word>
+  </sentence>
+  <sentence id="6" emotion="N/A" line="5">
+    <word wordOrder="1" emotion="N/A" property="w">
+    </word>
+    <word wordOrder="2" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="3" emotion="N/A" property="x">
+      　
+    </word>
+    <word wordOrder="4" emotion="N/A" property="m">
+      一
+    </word>
+    <word wordOrder="5" emotion="N/A" property="qt">
+      夜
+    </word>
+    <word wordOrder="6" emotion="N/A" property="f">
+      之间
+    </word>
+    <word wordOrder="7" emotion="N/A" property="wd">
+      ，
+    </word>
+    <word wordOrder="8" emotion="N/A" property="vi">
+      成立
+    </word>
+    <word wordOrder="9" emotion="N/A" property="d">
+      仅仅
+    </word>
+    <word wordOrder="10" emotion="N/A" property="m">
+      20
+    </word>
+    <word wordOrder="11" emotion="N/A" property="qt">
+      天
+    </word>
+    <word wordOrder="12" emotion="N/A" property="ude1">
+      的
+    </word>
+    <word wordOrder="13" emotion="N/A" property="x">
+      EVD
+    </word>
+    <word wordOrder="14" emotion="N/A" property="n">
+      联盟
+    </word>
+    <word wordOrder="15" emotion="N/A" property="d">
+      已经
+    </word>
+    <word wordOrder="16" emotion="negative" property="vl">
+      摇摇欲坠
+    </word>
+  </sentence>
+</document>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document id="48" name="48.txt">
+  <sentence id="1" emotion="positive" line="1">
+    <word id="1" wordOrder="1" emotion="N/A" property="nr2">富禹</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="w">·</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="nr">龙欣园</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="m">一</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="qv">期</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="d">即将</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="v">入住</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="w"> </word>
+    <word id="9" wordOrder="9" emotion="N/A" property="n">焦点</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="n">房地产</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="n">网</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="w"> </word>
+    <word id="13" wordOrder="13" emotion="N/A" property="x">sy</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="wj">.</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="x">focus</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="wj">.</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="x">cn</word>
+    <word id="18" wordOrder="18" emotion="N/A" property="w"> </word>
+    <word id="19" wordOrder="19" emotion="N/A" property="m">2006年</word>
+    <word id="20" wordOrder="20" emotion="N/A" property="t">08月</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="t">02日</word>
+    <word id="22" wordOrder="22" emotion="N/A" property="m">11:16</word>
+    <word id="23" wordOrder="23" emotion="N/A" property="w"> </word>
+    <word id="24" wordOrder="24" emotion="N/A" property="ns">沈阳</word>
+    <word id="25" wordOrder="25" emotion="N/A" property="n">晚报</word>
+    <word id="26" wordOrder="26" emotion="N/A" property="w">   </word>
+    <word id="27" wordOrder="27" emotion="N/A" property="n">霍</word>
+    <word id="28" wordOrder="28" emotion="N/A" property="n">雨</word>
+    <word id="29" wordOrder="29" emotion="N/A" property="a">佳</word>
+    <word id="30" wordOrder="30" emotion="N/A" property="w">   </word>
+    <word id="31" wordOrder="31" emotion="N/A" property="x">　</word>
+    <word id="32" wordOrder="32" emotion="N/A" property="x">　</word>
+    <word id="33" wordOrder="33" emotion="N/A" property="a">富</word>
+    <word id="34" wordOrder="34" emotion="N/A" property="nr1">禹</word>
+    <word id="35" wordOrder="35" emotion="N/A" property="w"> </word>
+    <word id="36" wordOrder="36" emotion="N/A" property="wkz">(</word>
+    <word id="37" wordOrder="37" emotion="N/A" property="n">论坛</word>
+    <word id="38" wordOrder="38" emotion="N/A" property="w"> </word>
+    <word id="39" wordOrder="39" emotion="N/A" property="v">像</word>
+    <word id="40" wordOrder="40" emotion="N/A" property="q">册</word>
+    <word id="41" wordOrder="41" emotion="N/A" property="w"> </word>
+    <word id="42" wordOrder="42" emotion="N/A" property="n">户型</word>
+    <word id="43" wordOrder="43" emotion="N/A" property="w"> </word>
+    <word id="44" wordOrder="44" emotion="N/A" property="n">样板</word>
+    <word id="45" wordOrder="45" emotion="N/A" property="f">间</word>
+    <word id="46" wordOrder="46" emotion="N/A" property="wky">)</word>
+    <word id="47" wordOrder="47" emotion="N/A" property="w"> </word>
+    <word id="48" wordOrder="48" emotion="N/A" property="w">·</word>
+    <word id="49" wordOrder="49" emotion="N/A" property="nr">龙欣园</word>
+    <word id="50" wordOrder="50" emotion="N/A" property="w"> </word>
+    <word id="51" wordOrder="51" emotion="N/A" property="wkz">(</word>
+    <word id="52" wordOrder="52" emotion="N/A" property="n">论坛</word>
+    <word id="53" wordOrder="53" emotion="N/A" property="w"> </word>
+    <word id="54" wordOrder="54" emotion="N/A" property="v">像</word>
+    <word id="55" wordOrder="55" emotion="N/A" property="q">册</word>
+    <word id="56" wordOrder="56" emotion="N/A" property="w"> </word>
+    <word id="57" wordOrder="57" emotion="N/A" property="n">户型</word>
+    <word id="58" wordOrder="58" emotion="N/A" property="w"> </word>
+    <word id="59" wordOrder="59" emotion="N/A" property="n">样板</word>
+    <word id="60" wordOrder="60" emotion="N/A" property="f">间</word>
+    <word id="61" wordOrder="61" emotion="N/A" property="wky">)</word>
+    <word id="62" wordOrder="62" emotion="N/A" property="w"> </word>
+    <word id="63" wordOrder="63" emotion="N/A" property="v">地处</word>
+    <word id="64" wordOrder="64" emotion="N/A" property="t">未来</word>
+    <word id="65" wordOrder="65" emotion="N/A" property="ns">沈阳</word>
+    <word id="66" wordOrder="66" emotion="N/A" property="d">极</word>
+    <word id="67" wordOrder="67" emotion="N/A" property="vg">具</word>
+    <word id="68" wordOrder="68" emotion="positive" property="v">增长</word>
+    <word id="69" wordOrder="69" emotion="positive" property="n">潜力</word>
+    <word id="70" wordOrder="70" emotion="N/A" property="ude1">的</word>
+    <word id="71" wordOrder="71" emotion="N/A" property="ng">陵</word>
+    <word id="72" wordOrder="72" emotion="N/A" property="f">东</word>
+    <word id="73" wordOrder="73" emotion="N/A" property="n">版块</word>
+    <word id="74" wordOrder="74" emotion="N/A" property="wd">，</word>
+    <word id="75" wordOrder="75" emotion="N/A" property="vshi">是</word>
+    <word id="76" wordOrder="76" emotion="N/A" property="wyz">“</word>
+    <word id="77" wordOrder="77" emotion="N/A" property="ns">沈阳市</word>
+    <word id="78" wordOrder="78" emotion="N/A" property="m">十</word>
+    <word id="79" wordOrder="79" emotion="N/A" property="a">大</word>
+    <word id="80" wordOrder="80" emotion="N/A" property="d" degree="true" >最</word>
+    <word id="81" wordOrder="81" emotion="positive" property="v">适合</word>
+    <word id="82" wordOrder="82" emotion="N/A" property="v">居住</word>
+    <word id="83" wordOrder="83" emotion="N/A" property="ude1">的</word>
+    <word id="84" wordOrder="84" emotion="N/A" property="n">地块</word>
+    <word id="85" wordOrder="85" emotion="N/A" property="wyy">”</word>
+    <word id="86" wordOrder="86" emotion="N/A" property="rz">之一</word>
+    <word id="87" wordOrder="87" emotion="N/A" property="wd">，</word>
+    <word id="88" wordOrder="88" emotion="N/A" property="vi">毗邻</word>
+    <word id="89" wordOrder="89" emotion="N/A" property="ns">北陵</word>
+    <word id="90" wordOrder="90" emotion="N/A" property="n">公园</word>
+    <word id="91" wordOrder="91" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="92" wordOrder="92" emotion="N/A" property="n">规划</word>
+    <word id="93" wordOrder="93" emotion="N/A" property="f">中</word>
+    <word id="94" wordOrder="94" emotion="N/A" property="ude1">的</word>
+    <word id="95" wordOrder="95" emotion="N/A" property="n">主题</word>
+    <word id="96" wordOrder="96" emotion="N/A" property="n">公园</word>
+    <word id="97" wordOrder="97" emotion="N/A" property="wd">，</word>
+    <word id="98" wordOrder="98" emotion="N/A" property="n">周边</word>
+    <word id="99" wordOrder="99" emotion="N/A" property="n">市政</word>
+    <word id="100" wordOrder="100" emotion="N/A" property="wn">、</word>
+    <word id="101" wordOrder="101" emotion="N/A" property="n">商业</word>
+    <word id="102" wordOrder="102" emotion="N/A" property="wn">、</word>
+    <word id="103" wordOrder="103" emotion="N/A" property="vn">生活</word>
+    <word id="104" wordOrder="104" emotion="N/A" property="m">三</word>
+    <word id="105" wordOrder="105" emotion="N/A" property="a">大</word>
+    <word id="106" wordOrder="106" emotion="N/A" property="n">功能</word>
+    <word id="107" wordOrder="107" emotion="N/A" property="a">配套</word>
+    <word id="108" wordOrder="108" emotion="positive" property="a">齐全</word>
+  </sentence>
+  <sentence id="2" emotion="positive" line="13">
+    <word id="109" wordOrder="1" emotion="N/A" property="n">省政府</word>
+    <word id="110" wordOrder="2" emotion="N/A" property="wn">、</word>
+    <word id="111" wordOrder="3" emotion="N/A" property="n">体育</word>
+    <word id="112" wordOrder="4" emotion="N/A" property="n">学院</word>
+    <word id="113" wordOrder="5" emotion="N/A" property="wn">、</word>
+    <word id="114" wordOrder="6" emotion="N/A" property="a">乐</word>
+    <word id="115" wordOrder="7" emotion="N/A" property="vg">购</word>
+    <word id="116" wordOrder="8" emotion="N/A" property="n">超市</word>
+    <word id="117" wordOrder="9" emotion="N/A" property="uden">等</word>
+    <word id="118" wordOrder="10" emotion="N/A" property="v">环抱</word>
+    <word id="119" wordOrder="11" emotion="N/A" property="f">周围</word>
+    <word id="120" wordOrder="12" emotion="N/A" property="wd">，</word>
+    <word id="121" wordOrder="13" emotion="N/A" property="v">加上</word>
+    <word id="122" wordOrder="14" emotion="N/A" property="vn">扩建</word>
+    <word id="123" wordOrder="15" emotion="N/A" property="f">中</word>
+    <word id="124" wordOrder="16" emotion="N/A" property="ude1">的</word>
+    <word id="125" wordOrder="17" emotion="N/A" property="ns">鸭绿江</word>
+    <word id="126" wordOrder="18" emotion="N/A" property="n">街</word>
+    <word id="127" wordOrder="19" emotion="N/A" property="wd">，</word>
+    <word id="128" wordOrder="20" emotion="N/A" property="m">724</word>
+    <word id="129" wordOrder="21" emotion="N/A" property="n">明渠</word>
+    <word id="130" wordOrder="22" emotion="N/A" property="vn">改造</word>
+    <word id="131" wordOrder="23" emotion="N/A" property="uden">等</word>
+    <word id="132" wordOrder="24" emotion="N/A" property="wd">，</word>
+    <word id="133" wordOrder="25" emotion="N/A" property="v">使</word>
+    <word id="134" wordOrder="26" emotion="N/A" property="rz">这个</word>
+    <word id="135" wordOrder="27" emotion="N/A" property="n">区域</word>
+    <word id="136" wordOrder="28" emotion="N/A" property="t">未来</word>
+    <word id="137" wordOrder="29" emotion="N/A" property="n">交通</word>
+    <word id="138" wordOrder="30" emotion="N/A" property="vn">配套</word>
+    <word id="139" wordOrder="31" emotion="N/A" property="d">更加</word>
+    <word id="140" wordOrder="32" emotion="positive" property="v">完善</word>
+  </sentence>
+</document>

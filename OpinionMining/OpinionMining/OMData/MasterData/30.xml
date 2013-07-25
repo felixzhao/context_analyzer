@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="30.txt">
+  <sentence id="1" emotion="N/A">
+    <word id="1" wordOrder="1" emotion="N/A" conjunction="True" effect="same" property="c">因此</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="n">外国</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="n">厂商</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="d">纷纷</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="v">利用</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="n">知识</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="n">产权</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="vf">来</word>
+    <word id="9" wordOrder="9" emotion="negtive" property="v">约束</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="ns">中国</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="n">企业</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="wd">，</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="v">预计</word>
+    <word id="14" wordOrder="14" emotion="N/A" property="t">今后</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="n">外国</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="n">厂商</word>
+    <word id="17" wordOrder="17" emotion="N/A" property="p">与</word>
+    <word id="18" wordOrder="18" emotion="N/A" property="ns">中国</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="n">企业</word>
+    <word id="20" wordOrder="20" emotion="N/A" property="p">关于</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="n">知识</word>
+    <word id="22" wordOrder="22" emotion="N/A" property="n">产权</word>
+    <word id="23" wordOrder="23" emotion="N/A" property="n">方面</word>
+    <word id="24" wordOrder="24" emotion="N/A" property="ude1">的</word>
+    <word id="25" wordOrder="25" emotion="negtive" property="n">争端</word>
+    <word id="26" wordOrder="26" emotion="N/A" property="wd">，</word>
+    <word id="27" wordOrder="27" emotion="N/A" property="d">还</word>
+    <word id="28" wordOrder="28" emotion="N/A" property="v">会</word>
+    <word id="29" degree="true" wordOrder="29" emotion="N/A" property="d">越来越</word>
+    <word id="30" wordOrder="30" emotion="positive" property="a">多</word>
+  </sentence>
+  <sentence id="2" emotion="N/A">
+    <word id="31" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="32" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="33" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="34" wordOrder="4" emotion="N/A" property="n">专家</word>
+    <word id="35" wordOrder="5" emotion="N/A" property="vn">分析</word>
+    <word id="36" wordOrder="6" emotion="N/A" property="wd">，</word>
+    <word id="37" wordOrder="7" emotion="N/A" property="p">在</word>
+    <word id="38" wordOrder="8" emotion="N/A" property="n">市场</word>
+    <word id="39" wordOrder="9" emotion="N/A" property="vn">竞争</word>
+    <word id="40" wordOrder="10" emotion="N/A" property="f">中</word>
+    <word id="41" wordOrder="11" emotion="N/A" property="wd">，</word>
+    <word id="42" wordOrder="12" emotion="N/A" property="n">知识</word>
+    <word id="43" wordOrder="13" emotion="N/A" property="n">产权</word>
+    <word id="44" wordOrder="14" emotion="N/A" property="n">实际</word>
+    <word id="45" wordOrder="15" emotion="N/A" property="vshi">是</word>
+    <word id="46" wordOrder="16" emotion="N/A" property="n">外国</word>
+    <word id="47" wordOrder="17" emotion="N/A" property="n">厂商</word>
+    <word id="48" wordOrder="18" emotion="N/A" property="v">用来</word>
+    <word id="49" wordOrder="19" emotion="N/A" property="v">操纵</word>
+    <word id="50" wordOrder="20" emotion="N/A" property="n">市场</word>
+    <word id="51" wordOrder="21" emotion="N/A" property="ude1">的</word>
+    <word id="52" wordOrder="22" emotion="N/A" property="m">一</word>
+    <word id="53" wordOrder="23" emotion="N/A" property="q">种</word>
+    <word id="54" wordOrder="24" emotion="positive" property="a">高明</word>
+    <word id="55" wordOrder="25" emotion="positive" property="n">策略</word>
+  </sentence>
+  <sentence id="3" emotion="N/A">
+    <word id="56" wordOrder="1" emotion="N/A" property="p">通过</word>
+    <word id="57" wordOrder="2" emotion="N/A" property="v">运用</word>
+    <word id="58" wordOrder="3" emotion="N/A" property="n">知识</word>
+    <word id="59" wordOrder="4" emotion="N/A" property="n">产权</word>
+    <word id="60" wordOrder="5" emotion="N/A" property="wn">、</word>
+    <word id="61" wordOrder="6" emotion="N/A" property="v">收取</word>
+    <word id="62" wordOrder="7" emotion="N/A" property="n">专利</word>
+    <word id="63" wordOrder="8" emotion="N/A" property="n">费</word>
+    <word id="64" wordOrder="9" emotion="N/A" property="wd">，</word>
+    <word id="65" wordOrder="10" emotion="N/A" conjunction="True" effect="same" property="c">不但</word>
+    <word id="66" wordOrder="11" emotion="N/A" property="v">可以</word>
+    <word id="67" wordOrder="12" emotion="N/A" property="p">从</word>
+    <word id="68" wordOrder="13" emotion="N/A" property="n">市场</word>
+    <word id="69" wordOrder="14" emotion="N/A" property="n">份额</word>
+    <word id="70" degree="true" wordOrder="15" emotion="N/A" property="d">日益</word>
+    <word id="71" wordOrder="16" emotion="positive" property="v">扩大</word>
+    <word id="72" wordOrder="17" emotion="N/A" property="ude1">的</word>
+    <word id="73" wordOrder="18" emotion="N/A" property="ns">中国</word>
+    <word id="74" wordOrder="19" emotion="N/A" property="n">企业</word>
+    <word id="75" wordOrder="20" emotion="N/A" property="s">手中</word>
+    <word id="76" wordOrder="21" emotion="N/A" property="v">分</word>
+    <word id="77" wordOrder="22" emotion="N/A" property="v">取</word>
+    <word id="78" wordOrder="23" emotion="N/A" property="m">一部分</word>
+    <word id="79" wordOrder="24" emotion="N/A" property="n">利润</word>
+    <word id="80" wordOrder="25" emotion="N/A" property="wd">，</word>
+    <word id="81" wordOrder="26" emotion="N/A" property="d">还</word>
+    <word id="82" wordOrder="27" emotion="N/A" property="v">可</word>
+    <word id="83" wordOrder="28" emotion="positive" property="v">提高</word>
+    <word id="84" wordOrder="29" emotion="N/A" property="ns">中国</word>
+    <word id="85" wordOrder="30" emotion="N/A" property="n">企业</word>
+    <word id="86" wordOrder="31" emotion="N/A" property="ude1">的</word>
+    <word id="87" wordOrder="32" emotion="N/A" property="n">产品成本</word>
+    <word id="88" wordOrder="33" emotion="N/A" property="wd">，</word>
+    <word id="89" wordOrder="34" emotion="positive" property="v">限制</word>
+    <word id="90" wordOrder="35" emotion="N/A" property="ns">中国</word>
+    <word id="91" wordOrder="36" emotion="N/A" property="n">企业</word>
+    <word id="92" wordOrder="37" emotion="N/A" property="p">向</word>
+    <word id="93" wordOrder="38" emotion="N/A" property="f">中</word>
+    <word id="94" wordOrder="39" emotion="positive" property="n">高端</word>
+    <word id="95" wordOrder="40" emotion="N/A" property="n">产品</word>
+    <word id="96" wordOrder="41" emotion="N/A" property="vn">发展</word>
+    <word id="97" wordOrder="42" emotion="N/A" property="wd">，</word>
+    <word id="98" wordOrder="43" emotion="positive" property="v">保卫</word>
+    <word id="99" wordOrder="44" emotion="N/A" property="rr">自己</word>
+    <word id="100" wordOrder="45" emotion="N/A" property="v">原有</word>
+    <word id="101" wordOrder="46" emotion="N/A" property="ude1">的</word>
+    <word id="102" wordOrder="47" emotion="N/A" property="n">市场</word>
+  </sentence>
+  <sentence id="4" emotion="N/A">
+    <word id="103" wordOrder="1" emotion="N/A" property="d">无疑</word>
+    <word id="104" wordOrder="2" emotion="N/A" property="wd">，</word>
+    <word id="105" wordOrder="3" emotion="N/A" property="n">外国</word>
+    <word id="106" wordOrder="4" emotion="N/A" property="n">厂商</word>
+    <word id="107" wordOrder="5" emotion="N/A" property="p">通过</word>
+    <word id="108" wordOrder="6" emotion="N/A" property="p">与</word>
+    <word id="109" wordOrder="7" emotion="N/A" property="ns">中国</word>
+    <word id="110" wordOrder="8" emotion="N/A" property="n">企业</word>
+    <word id="111" wordOrder="9" emotion="N/A" property="d">大</word>
+    <word id="112" wordOrder="10" emotion="N/A" property="v">打</word>
+    <word id="113" wordOrder="11" emotion="N/A" property="n">知识</word>
+    <word id="114" wordOrder="12" emotion="N/A" property="n">产权</word>
+    <word id="115" wordOrder="13" emotion="N/A" property="n">官司</word>
+    <word id="116" wordOrder="14" emotion="N/A" property="wd">，</word>
+    <word id="117" wordOrder="15" emotion="N/A" property="n">目的</word>
+    <word id="118" wordOrder="16" emotion="N/A" property="vshi">是</word>
+    <word id="119" wordOrder="17" emotion="negtive" property="v">打</word>
+    <word id="120" wordOrder="18" emotion="negtive" property="v">压</word>
+    <word id="121" wordOrder="19" emotion="N/A" property="ns">中国</word>
+    <word id="122" wordOrder="20" emotion="N/A" property="n">企业</word>
+    <word id="123" wordOrder="21" emotion="N/A" property="ude1">的</word>
+    <word id="124" wordOrder="22" emotion="N/A" property="vn">消费</word>
+    <word id="125" wordOrder="23" emotion="N/A" property="n">市场</word>
+  </sentence>
+</document>

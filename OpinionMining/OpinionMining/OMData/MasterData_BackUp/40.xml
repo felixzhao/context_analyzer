@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="40.txt">
+  <sentence id="1" emotion="N/A">
+    <word id="1" wordOrder="1" emotion="N/A" property="p">从</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="s">西方</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="n">媒体</word>
+    <word id="4" wordOrder="4" emotion="N/A" property="ude1">的</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="n">报道</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="u">来看</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="wd">，</word>
+    <word id="8" wordOrder="8" emotion="N/A" property="ad">一般</word>
+    <word id="9" wordOrder="9" emotion="positive" property="v">特指</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="b">专有</word>
+    <word id="11" wordOrder="11" emotion="N/A" property="n">名词</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="wp">———</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="x">Weblog</word>
+    <word id="14" wordOrder="14" emotion="N/A" conjunction="True" effect="same" property="c">或</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="x">Blog</word>
+  </sentence>
+  <sentence id="2" emotion="N/A">
+    <word id="16" wordOrder="1" emotion="N/A" property="m">一</word>
+    <word id="17" wordOrder="2" emotion="N/A" property="q">个</word>
+    <word id="18" wordOrder="3" emotion="N/A" property="x">Blog</word>
+    <word id="19" wordOrder="4" emotion="N/A" property="d">就</word>
+    <word id="20" wordOrder="5" emotion="N/A" property="vshi">是</word>
+    <word id="21" wordOrder="6" emotion="N/A" property="mq">一个</word>
+    <word id="22" wordOrder="7" emotion="N/A" property="n">网页</word>
+    <word id="23" wordOrder="8" emotion="N/A" property="wd">，</word>
+    <word id="24" wordOrder="9" emotion="N/A" property="rr">它</word>
+    <word id="25" wordOrder="10" emotion="N/A" property="d">通常</word>
+    <word id="26" wordOrder="11" emotion="N/A" property="vshi">是</word>
+    <word id="27" wordOrder="12" emotion="N/A" property="p">由</word>
+    <word id="28" wordOrder="13" emotion="positive" property="a">简短</word>
+    <word id="29" wordOrder="14" emotion="N/A" conjunction="True" effect="same" property="c">且</word>
+    <word id="30" wordOrder="15" emotion="N/A" property="d">经常</word>
+    <word id="31" wordOrder="16" emotion="N/A" property="v">更新</word>
+    <word id="32" wordOrder="17" emotion="N/A" property="ude1">的</word>
+    <word id="33" wordOrder="18" emotion="N/A" property="x">Post</word>
+    <word id="34" wordOrder="19" emotion="N/A" property="wkz">（</word>
+    <word id="35" wordOrder="20" emotion="N/A" property="ng">帖</word>
+    <word id="36" wordOrder="21" emotion="N/A" property="ng">子</word>
+    <word id="37" wordOrder="22" emotion="N/A" property="wky">）</word>
+    <word id="38" wordOrder="23" emotion="N/A" property="usuo">所</word>
+    <word id="39" wordOrder="24" emotion="N/A" property="v">构成</word>
+    <word id="40" wordOrder="25" emotion="N/A" property="wf">；</word>
+    <word id="41" wordOrder="26" emotion="N/A" property="rz">这些</word>
+    <word id="42" wordOrder="27" emotion="N/A" property="v">张贴</word>
+    <word id="43" wordOrder="28" emotion="N/A" property="ude1">的</word>
+    <word id="44" wordOrder="29" emotion="N/A" property="n">文章</word>
+    <word id="45" wordOrder="30" emotion="N/A" property="d">都</word>
+    <word id="46" wordOrder="31" emotion="N/A" property="p">按照</word>
+    <word id="47" wordOrder="32" emotion="N/A" property="n">年份</word>
+    <word id="48" wordOrder="33" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="49" wordOrder="34" emotion="N/A" property="n">日期</word>
+    <word id="50" wordOrder="35" emotion="N/A" property="v">排列</word>
+    <word id="51" wordOrder="36" emotion="N/A" property="ude1">的</word>
+  </sentence>
+  <sentence id="3" emotion="N/A">
+    <word id="52" wordOrder="1" emotion="N/A" property="w"></word>
+    <word id="53" wordOrder="2" emotion="N/A" property="x">　</word>
+    <word id="54" wordOrder="3" emotion="N/A" property="x">　</word>
+    <word id="55" wordOrder="4" emotion="N/A" property="m">许多</word>
+    <word id="56" wordOrder="5" emotion="N/A" property="x">Blogs</word>
+    <word id="57" wordOrder="6" emotion="N/A" property="vshi">是</word>
+    <word id="58" wordOrder="7" emotion="N/A" property="q">个</word>
+    <word id="59" wordOrder="8" emotion="N/A" property="n">人</word>
+    <word id="60" wordOrder="9" emotion="N/A" property="s">心中</word>
+    <word id="61" wordOrder="10" emotion="N/A" property="usuo">所</word>
+    <word id="62" wordOrder="11" emotion="N/A" property="v">想</word>
+    <word id="63" wordOrder="12" emotion="N/A" property="uzhi">之</word>
+    <word id="64" wordOrder="13" emotion="N/A" property="n">事情</word>
+    <word id="65" wordOrder="14" emotion="N/A" property="ude1">的</word>
+    <word id="66" wordOrder="15" emotion="N/A" property="v">发表</word>
+    <word id="67" wordOrder="16" emotion="N/A" property="wd">，</word>
+    <word id="68" wordOrder="17" emotion="N/A" property="v">还有</word>
+    <word id="69" wordOrder="18" emotion="N/A" property="mq">一些</word>
+    <word id="70" wordOrder="19" emotion="N/A" property="x">Blogs</word>
+    <word id="71" wordOrder="20" emotion="N/A" property="d">则</word>
+    <word id="72" wordOrder="21" emotion="N/A" property="vshi">是</word>
+    <word id="73" wordOrder="22" emotion="N/A" property="m">一</word>
+    <word id="74" wordOrder="23" emotion="N/A" property="q">群</word>
+    <word id="75" wordOrder="24" emotion="N/A" property="n">人</word>
+    <word id="76" wordOrder="25" emotion="N/A" property="p">基于</word>
+    <word id="77" wordOrder="26" emotion="N/A" property="rz">某个</word>
+    <word id="78" wordOrder="27" emotion="N/A" property="b">特定</word>
+    <word id="79" wordOrder="28" emotion="N/A" property="n">主题</word>
+    <word id="80" wordOrder="29" emotion="N/A" conjunction="True" effect="same" property="c">或</word>
+    <word id="81" wordOrder="30" emotion="N/A" property="b">共同</word>
+    <word id="82" wordOrder="31" emotion="positive" property="n">利益</word>
+    <word id="83" wordOrder="32" emotion="N/A" property="n">领域</word>
+    <word id="84" wordOrder="33" emotion="N/A" property="ude1">的</word>
+    <word id="85" wordOrder="34" emotion="N/A" property="n">集体</word>
+    <word id="86" wordOrder="35" emotion="positive" property="vn">创作</word>
+  </sentence>
+  <sentence id="4" emotion="N/A">
+    <word id="87" wordOrder="1" emotion="N/A" property="x">Blog</word>
+    <word id="88" wordOrder="2" emotion="N/A" property="v">好像</word>
+    <word id="89" wordOrder="3" emotion="N/A" property="vshi">是</word>
+    <word id="90" wordOrder="4" emotion="N/A" property="n">网络</word>
+    <word id="91" wordOrder="5" emotion="N/A" property="v">传达</word>
+    <word id="92" wordOrder="6" emotion="N/A" property="ude1">的</word>
+    <word id="93" wordOrder="7" emotion="N/A" property="n">实时</word>
+    <word id="94" wordOrder="8" emotion="N/A" property="n">信息</word>
+  </sentence>
+  <sentence id="5" emotion="N/A">
+    <word id="95" wordOrder="1" emotion="N/A" property="v">撰写</word>
+    <word id="96" wordOrder="2" emotion="N/A" property="rz">这些</word>
+    <word id="97" wordOrder="3" emotion="N/A" property="x">Weblog</word>
+    <word id="98" wordOrder="4" emotion="N/A" conjunction="True" effect="same" property="c">或</word>
+    <word id="99" wordOrder="5" emotion="N/A" property="x">Blog</word>
+    <word id="100" wordOrder="6" emotion="N/A" property="ude1">的</word>
+    <word id="101" wordOrder="7" emotion="N/A" property="n">人</word>
+    <word id="102" wordOrder="8" emotion="N/A" property="d">就</word>
+    <word id="103" wordOrder="9" emotion="N/A" property="v">叫做</word>
+    <word id="104" wordOrder="10" emotion="N/A" property="x">Blogger</word>
+    <word id="105" wordOrder="11" emotion="N/A" conjunction="True" effect="same" property="c">或</word>
+    <word id="106" wordOrder="12" emotion="N/A" property="x">Blogwriter</word>
+  </sentence>
+  <sentence id="6" emotion="N/A">
+    <word id="107" wordOrder="1" emotion="N/A" property="p">在</word>
+    <word id="108" wordOrder="2" emotion="N/A" property="n">网络</word>
+    <word id="109" wordOrder="3" emotion="N/A" property="f">上</word>
+    <word id="110" wordOrder="4" emotion="N/A" property="v">发表</word>
+    <word id="111" wordOrder="5" emotion="N/A" property="x">Blog</word>
+    <word id="112" wordOrder="6" emotion="N/A" property="ude1">的</word>
+    <word id="113" wordOrder="7" emotion="N/A" property="vn">构想</word>
+    <word id="114" wordOrder="8" emotion="N/A" property="v">开始</word>
+    <word id="115" wordOrder="9" emotion="N/A" property="p">于</word>
+    <word id="116" wordOrder="10" emotion="N/A" property="m">1998年</word>
+    <word id="117" wordOrder="11" emotion="N/A" property="wd">，</word>
+    <word id="118" wordOrder="12" emotion="N/A" conjunction="True" effect="same" property="c">但</word>
+    <word id="119" wordOrder="13" emotion="N/A" property="v">到</word>
+    <word id="120" wordOrder="14" emotion="N/A" property="ule">了</word>
+    <word id="121" wordOrder="15" emotion="N/A" property="m">2000年</word>
+    <word id="122" wordOrder="16" emotion="N/A" conjunction="True" effect="same" property="c">才</word>
+    <word id="123" wordOrder="17" emotion="N/A" property="d">真正</word>
+    <word id="124" wordOrder="18" emotion="N/A" property="v">开始</word>
+    <word id="125" wordOrder="19" emotion="positive" property="v">流行</word>
+  </sentence>
+</document>

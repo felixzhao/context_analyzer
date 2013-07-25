@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document id="25" name="25.txt">
+  <sentence id="1" emotion="negative" line="1">
+    <word id="1" wordOrder="1" emotion="N/A" conjunction="True" effect="same" property="cc">而</word>
+    <word id="2" wordOrder="2" emotion="N/A" property="n">地方</word>
+    <word id="3" wordOrder="3" emotion="N/A" property="n">政府</word>
+    <word id="4" wordOrder="4" emotion="negative" property="v">迫于</word>
+    <word id="5" wordOrder="5" emotion="N/A" property="n">财政</word>
+    <word id="6" wordOrder="6" emotion="N/A" property="n">支出</word>
+    <word id="7" wordOrder="7" emotion="N/A" property="ude1">的</word>
+    <word id="8" wordOrder="8" emotion="negative" property="n">压力</word>
+    <word id="9" wordOrder="9" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="10" wordOrder="10" emotion="N/A" property="vn">追求</word>
+    <word id="11" wordOrder="11" emotion="positive" property="vn">发展</word>
+    <word id="12" wordOrder="12" emotion="N/A" property="n">政绩</word>
+    <word id="13" wordOrder="13" emotion="N/A" property="ude1">的</word>
+    <word id="14" wordOrder="14" emotion="negative" property="an">冲动</word>
+    <word id="15" wordOrder="15" emotion="N/A" property="wd">，</word>
+    <word id="16" wordOrder="16" emotion="N/A" property="d">往往</word>
+    <word id="17" wordOrder="17" emotion="negative" degree="false" property="v">无</word>
+    <word id="18" wordOrder="18" emotion="positive" property="v">节制</word>
+    <word id="19" wordOrder="19" emotion="N/A" property="ude2">地</word>
+    <word id="20" wordOrder="20" emotion="N/A" property="d">任意</word>
+    <word id="21" wordOrder="21" emotion="N/A" property="v">抬高</word>
+    <word id="22" wordOrder="22" emotion="N/A" property="n">地价</word>
+  </sentence>
+  <sentence id="2" emotion="negative" line="1">
+    <word id="23" wordOrder="1" emotion="N/A" property="d">由此</word>
+    <word id="24" wordOrder="2" emotion="N/A" property="v">造成</word>
+    <word id="25" wordOrder="3" emotion="N/A" property="ude1">的</word>
+    <word id="26" wordOrder="4" emotion="N/A" property="b">必然</word>
+    <word id="27" wordOrder="5" emotion="N/A" property="n">后果</word>
+    <word id="28" wordOrder="6" emotion="N/A" property="vshi">是</word>
+    <word id="29" wordOrder="7" emotion="N/A" property="wd">，</word>
+    <word id="30" wordOrder="8" emotion="N/A" property="n">开发商</word>
+    <word id="31" wordOrder="9" emotion="N/A" property="p">将</word>
+    <word id="32" wordOrder="10" emotion="negative" property="a">高额</word>
+    <word id="33" wordOrder="11" emotion="N/A" property="ude1">的</word>
+    <word id="34" wordOrder="12" emotion="N/A" property="n">土地</word>
+    <word id="35" wordOrder="13" emotion="N/A" property="vn">出让</word>
+    <word id="36" wordOrder="14" emotion="N/A" property="n">成本</word>
+    <word id="37" wordOrder="15" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="38" wordOrder="16" emotion="N/A" property="n">信贷</word>
+    <word id="39" wordOrder="17" emotion="N/A" property="n">成本</word>
+    <word id="40" wordOrder="18" emotion="N/A" property="p">向</word>
+    <word id="41" wordOrder="19" emotion="N/A" property="n">房</word>
+    <word id="42" wordOrder="20" emotion="N/A" property="n">市</word>
+    <word id="43" wordOrder="21" emotion="N/A" property="vn">转移</word>
+    <word id="44" wordOrder="22" emotion="N/A" property="wd">，</word>
+    <word id="45" wordOrder="23" emotion="N/A" property="v">让</word>
+    <word id="46" wordOrder="24" emotion="N/A" property="n">消费者</word>
+    <word id="47" wordOrder="25" emotion="N/A" property="p">为</word>
+    <word id="48" wordOrder="26" emotion="N/A" property="b">非</word>
+    <word id="49" wordOrder="27" emotion="N/A" property="vn">市场化</word>
+    <word id="50" wordOrder="28" emotion="N/A" property="ude1">的</word>
+    <word id="51" wordOrder="29" emotion="N/A" property="n">后果</word>
+    <word id="52" wordOrder="30" emotion="N/A" property="v">埋</word>
+    <word id="53" wordOrder="31" emotion="N/A" property="ng">单</word>
+  </sentence>
+  <sentence id="3" emotion="negative" line="1">
+    <word id="54" wordOrder="1" emotion="N/A" conjunction="True" effect="same" property="c">并且</word>
+    <word id="55" wordOrder="2" emotion="N/A" property="wd">，</word>
+    <word id="56" wordOrder="3" emotion="N/A" conjunction="True" effect="same" property="c">由于</word>
+    <word id="57" wordOrder="4" emotion="N/A" property="b">非</word>
+    <word id="58" wordOrder="5" emotion="N/A" property="vn">市场化</word>
+    <word id="59" wordOrder="6" emotion="N/A" property="ude1">的</word>
+    <word id="60" wordOrder="7" emotion="N/A" property="n">原因</word>
+    <word id="61" wordOrder="8" emotion="N/A" property="wd">，</word>
+    <word id="62" wordOrder="9" emotion="N/A" property="n">土地</word>
+    <word id="63" wordOrder="10" emotion="N/A" property="n">资源</word>
+    <word id="64" wordOrder="11" emotion="N/A" property="ude1">的</word>
+    <word id="65" wordOrder="12" emotion="N/A" property="vn">分配</word>
+    <word id="66" wordOrder="13" emotion="N/A" property="p">在</word>
+    <word id="67" wordOrder="14" emotion="N/A" property="n">时间</word>
+    <word id="68" wordOrder="15" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word id="69" wordOrder="16" emotion="N/A" property="n">空间</word>
+    <word id="70" wordOrder="17" emotion="N/A" property="f">上</word>
+    <word id="71" wordOrder="18" emotion="negative" degree="false" property="d">不</word>
+    <word id="72" wordOrder="19" emotion="N/A" property="v">能</word>
+    <word id="73" wordOrder="20" emotion="N/A" property="p">按</word>
+    <word id="74" wordOrder="21" emotion="N/A" property="n">市场</word>
+    <word id="75" wordOrder="22" emotion="N/A" property="n">要求</word>
+    <word id="76" wordOrder="23" emotion="positive" property="vx">进行</word>
+    <word id="77" wordOrder="24" emotion="N/A" property="wd">，</word>
+    <word id="78" wordOrder="25" emotion="N/A" conjunction="True" effect="same" property="c">一旦</word>
+    <word id="79" wordOrder="26" emotion="N/A" property="n">房价</word>
+    <word id="80" wordOrder="27" emotion="N/A" property="vi">上涨</word>
+    <word id="81" wordOrder="28" emotion="N/A" property="wd">，</word>
+    <word id="82" wordOrder="29" emotion="N/A" property="n">市场</word>
+    <word id="83" wordOrder="30" emotion="negative" property="d">难以</word>
+    <word id="84" wordOrder="31" emotion="N/A" property="p">通过</word>
+    <word id="85" wordOrder="32" emotion="positive" property="vn">调节</word>
+    <word id="86" wordOrder="33" emotion="N/A" property="n">要素</word>
+    <word id="87" wordOrder="34" emotion="N/A" property="vn">配置</word>
+    <word id="88" wordOrder="35" emotion="N/A" property="f">来</word>
+    <word id="89" wordOrder="36" emotion="positive" property="ad">迅速</word>
+    <word id="90" wordOrder="37" emotion="negative" property="v">增加</word>
+    <word id="91" wordOrder="38" emotion="N/A" property="n">房屋</word>
+    <word id="92" wordOrder="39" emotion="N/A" property="vn">供应</word>
+    <word id="93" wordOrder="40" emotion="N/A" property="wd">，</word>
+    <word id="94" wordOrder="41" emotion="N/A" conjunction="True" effect="same" property="c">从而</word>
+    <word id="95" wordOrder="42" emotion="N/A" property="v">导致</word>
+    <word id="96" wordOrder="43" emotion="N/A" property="n">房价</word>
+    <word id="97" wordOrder="44" emotion="positive" property="d">进一步</word>
+    <word id="98" wordOrder="45" emotion="negative" property="v">攀升</word>
+  </sentence>
+  <sentence id="4" emotion="N/A" line="1">
+    <word id="99" wordOrder="1" emotion="N/A" property="v">可以</word>
+    <word id="100" wordOrder="2" emotion="N/A" property="v">说</word>
+    <word id="101" wordOrder="3" emotion="N/A" property="wd">，</word>
+    <word id="102" wordOrder="4" emotion="N/A" property="n">产品</word>
+    <word id="103" wordOrder="5" emotion="N/A" property="vn">市场化</word>
+    <word id="104" wordOrder="6" emotion="N/A" conjunction="True" effect="same" property="cc">而</word>
+    <word id="105" wordOrder="7" emotion="N/A" property="n">要素</word>
+    <word id="106" wordOrder="8" emotion="N/A" property="b">非</word>
+    <word id="107" wordOrder="9" emotion="N/A" property="vn">市场化</word>
+    <word id="108" wordOrder="10" emotion="N/A" property="ude1">的</word>
+    <word id="109" wordOrder="11" emotion="N/A" property="n">现状</word>
+    <word id="110" wordOrder="12" emotion="N/A" property="wd">，</word>
+    <word id="111" wordOrder="13" emotion="N/A" property="vshi">是</word>
+    <word id="112" wordOrder="14" emotion="N/A" property="n">住房</word>
+    <word id="113" wordOrder="15" emotion="N/A" property="n">市场</word>
+    <word id="114" wordOrder="16" emotion="N/A" property="n">畸形</word>
+    <word id="115" wordOrder="17" emotion="N/A" conjunction="True" effect="same" property="cc">以及</word>
+    <word id="116" wordOrder="18" emotion="N/A" property="n">价格</word>
+    <word id="117" wordOrder="19" emotion="N/A" property="vl">居高不下</word>
+    <word id="118" wordOrder="20" emotion="N/A" property="ude1">的</word>
+    <word id="119" wordOrder="21" emotion="N/A" property="n">根</word>
+    <word id="120" wordOrder="22" emotion="N/A" property="p">由</word>
+    <word id="121" wordOrder="23" emotion="N/A" property="n">所在</word>
+  </sentence>
+</document>

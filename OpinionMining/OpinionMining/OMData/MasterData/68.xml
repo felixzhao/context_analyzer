@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="68.txt">
+  <sentence id="1" emotion="positive" line="1">
+    <word wordOrder="0" emotion="N/A" property="t">1月</word>
+    <word wordOrder="1" emotion="N/A" property="t">16日</word>
+    <word wordOrder="2" emotion="N/A" property="p">至</word>
+    <word wordOrder="3" emotion="N/A" property="t">19日</word>
+    <word wordOrder="4" emotion="N/A" property="wd">，</word>
+    <word wordOrder="5" emotion="N/A" property="nr">李长春</word>
+    <word wordOrder="6" emotion="N/A" property="d">先后</word>
+    <word wordOrder="7" emotion="N/A" property="v">来到</word>
+    <word wordOrder="8" emotion="N/A" property="ns">中国</word>
+    <word wordOrder="9" emotion="N/A" property="n">国际</word>
+    <word wordOrder="10" emotion="N/A" property="n">广播电台</word>
+    <word wordOrder="11" emotion="N/A" property="wn">、</word>
+    <word wordOrder="12" emotion="N/A" property="nt">人民日报社</word>
+    <word wordOrder="13" emotion="N/A" property="wn">、</word>
+    <word wordOrder="14" emotion="N/A" property="nz">新华</word>
+    <word wordOrder="15" emotion="N/A" property="n">通讯社</word>
+    <word wordOrder="16" emotion="N/A" property="wn">、</word>
+    <word wordOrder="17" emotion="N/A" property="nz">求是</word>
+    <word wordOrder="18" emotion="N/A" property="n">杂志社</word>
+    <word wordOrder="19" emotion="N/A" property="wn">、</word>
+    <word wordOrder="20" emotion="N/A" property="nt">中央人民广播电台</word>
+    <word wordOrder="21" emotion="N/A" property="wn">、</word>
+    <word wordOrder="22" emotion="N/A" property="nt">中央电视台</word>
+    <word wordOrder="23" emotion="N/A" property="wd">，</word>
+    <word wordOrder="24" emotion="positive" property="v">看望</word>
+    <word wordOrder="25" emotion="positive" property="ad">辛勤</word>
+    <word wordOrder="26" emotion="N/A" property="vi">工作</word>
+    <word wordOrder="27" emotion="N/A" property="p">在</word>
+    <word wordOrder="28" emotion="N/A" property="n">新闻</word>
+    <word wordOrder="29" emotion="N/A" property="vn">宣传</word>
+    <word wordOrder="30" emotion="N/A" property="n">战线</word>
+    <word wordOrder="31" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="32" emotion="N/A" property="n">编辑</word>
+    <word wordOrder="33" emotion="N/A" property="wn">、</word>
+    <word wordOrder="34" emotion="N/A" property="n">记者</word>
+    <word wordOrder="35" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="36" emotion="N/A" property="n">工作人员</word>
+    <word wordOrder="37" emotion="N/A" property="wd">，</word>
+    <word wordOrder="38" emotion="positive" property="n">代表</word>
+    <word wordOrder="39" emotion="N/A" property="nt">党中央</word>
+    <word wordOrder="40" emotion="N/A" property="p">向</word>
+    <word wordOrder="41" emotion="N/A" property="rr">大家</word>
+    <word wordOrder="42" emotion="N/A" property="v">表示</word>
+    <word wordOrder="43" emotion="positive" property="ad">亲切</word>
+    <word wordOrder="44" emotion="positive" property="v">慰问</word>
+    <word wordOrder="45" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="46" emotion="N/A" property="t">新春</word>
+    <word wordOrder="47" emotion="positive" property="v">祝贺</word>
+  </sentence>
+  <sentence id="2" emotion="positive" line="1">
+    <word wordOrder="0" emotion="N/A" property="nt">中共中央政治局</word>
+    <word wordOrder="1" emotion="N/A" property="n">委员</word>
+    <word wordOrder="2" emotion="N/A" property="wn">、</word>
+    <word wordOrder="3" emotion="N/A" property="n">书记处</word>
+    <word wordOrder="4" emotion="N/A" property="n">书记</word>
+    <word wordOrder="5" emotion="N/A" property="wn">、</word>
+    <word wordOrder="6" emotion="N/A" property="n">中宣部</word>
+    <word wordOrder="7" emotion="N/A" property="n">部长</word>
+    <word wordOrder="8" emotion="N/A" property="nr">刘云山</word>
+    <word wordOrder="9" emotion="N/A" property="wd">，</word>
+    <word wordOrder="10" emotion="N/A" property="n">国务委员</word>
+    <word wordOrder="11" emotion="N/A" property="nr">陈至立</word>
+    <word wordOrder="12" emotion="N/A" property="v">参加</word>
+    <word wordOrder="13" emotion="positive" property="v">走访</word>
+  </sentence>
+  <sentence id="3" emotion="positive" line="2">
+    <word wordOrder="0" emotion="N/A" property="w"></word>
+    <word wordOrder="1" emotion="N/A" property="x">　</word>
+    <word wordOrder="2" emotion="N/A" property="x">　</word>
+    <word wordOrder="3" emotion="N/A" property="nr">李长春</word>
+    <word wordOrder="4" emotion="N/A" property="v">说</word>
+    <word wordOrder="5" emotion="N/A" property="wd">，</word>
+    <word wordOrder="6" emotion="N/A" property="d">刚刚</word>
+    <word wordOrder="7" emotion="N/A" property="vf">过去</word>
+    <word wordOrder="8" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="9" emotion="N/A" property="m">2003年</word>
+    <word wordOrder="10" emotion="N/A" property="vshi">是</word>
+    <word wordOrder="11" emotion="positive" property="d">极</word>
+    <word wordOrder="12" emotion="N/A" property="d">不</word>
+    <word wordOrder="13" emotion="N/A" property="a">平凡</word>
+    <word wordOrder="14" emotion="N/A" property="ude1">的</word>
+    <word wordOrder="15" emotion="N/A" property="m">一年</word>
+  </sentence>
+  <sentence id="4" emotion="positive" line="2">
+    <word wordOrder="0" emotion="N/A" property="n">新闻</word>
+    <word wordOrder="1" emotion="N/A" property="vn">宣传</word>
+    <word wordOrder="2" emotion="N/A" property="n">战线</word>
+    <word wordOrder="3" emotion="positive" property="ad">坚决</word>
+    <word wordOrder="4" emotion="positive" property="v">贯彻</word>
+    <word wordOrder="5" emotion="N/A" property="n">中央</word>
+    <word wordOrder="6" emotion="N/A" property="n">精神</word>
+    <word wordOrder="7" emotion="N/A" property="wd">，</word>
+    <word wordOrder="8" emotion="positive" property="d">大力</word>
+    <word wordOrder="9" emotion="N/A" property="v">宣传</word>
+    <word wordOrder="10" emotion="N/A" property="n">邓小平理论</word>
+    <word wordOrder="11" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordOrder="12" emotion="N/A" property="wyz">“</word>
+    <word wordOrder="13" emotion="N/A" property="m">三</word>
+    <word wordOrder="14" emotion="N/A" property="q">个</word>
+    <word wordOrder="15" emotion="N/A" property="n">代表</word>
+    <word wordOrder="16" emotion="N/A" property="wyy">”</word>
+    <word wordOrder="17" emotion="positive" property="a">重要</word>
+  </sentence>
+</document>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="gb2312"?>
+<document name="87.txt">
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="nz">英特尔</word>
+    <word wordPrder="1" emotion="N/A" property="n">同时</word>
+    <word wordPrder="2" emotion="N/A" property="v">推出</word>
+    <word wordPrder="3" emotion="N/A" property="ule">了</word>
+    <word wordPrder="4" emotion="N/A" property="rz">每</word>
+    <word wordPrder="5" emotion="N/A" property="qt">秒</word>
+    <word wordPrder="6" emotion="N/A" property="m">28亿</word>
+    <word wordPrder="7" emotion="N/A" property="qv">次</word>
+    <word wordPrder="8" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="9" emotion="N/A" property="d">最</word>
+    <word wordPrder="10" emotion="N/A" property="a">快</word>
+    <word wordPrder="11" emotion="N/A" property="n">电脑处理器</word>
+    <word wordPrder="12" emotion="N/A" property="wd">，</word>
+    <word wordPrder="13" emotion="N/A" conjunction="True" effect="same" property="cc">并</word>
+    <word wordPrder="14" emotion="N/A" property="p">将</word>
+    <word wordPrder="15" emotion="N/A" property="t">此前</word>
+    <word wordPrder="16" emotion="N/A" property="n">速度</word>
+    <word wordPrder="17" emotion="N/A" property="d">最</word>
+    <word wordPrder="18" emotion="N/A" property="a">快</word>
+    <word wordPrder="19" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="20" emotion="N/A" property="x">2.53G</word>
+    <word wordPrder="21" emotion="N/A" property="n">芯片</word>
+    <word wordPrder="22" emotion="N/A" property="n">价格</word>
+    <word wordPrder="23" emotion="N/A" property="v">下调</word>
+    <word wordPrder="24" emotion="N/A" property="m">62%</word>
+  </sentence>
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="w"></word>
+    <word wordPrder="1" emotion="N/A" property="x">　</word>
+    <word wordPrder="2" emotion="N/A" property="x">　</word>
+    <word wordPrder="3" emotion="N/A" property="t">昨天</word>
+    <word wordPrder="4" emotion="N/A" property="t">下午</word>
+    <word wordPrder="5" emotion="N/A" property="wd">，</word>
+    <word wordPrder="6" emotion="N/A" property="n">世界</word>
+    <word wordPrder="7" emotion="N/A" property="d">最</word>
+    <word wordPrder="8" emotion="N/A" property="a">大</word>
+    <word wordPrder="9" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="10" emotion="N/A" property="n">显示器</word>
+    <word wordPrder="11" emotion="N/A" property="n">企业</word>
+    <word wordPrder="12" emotion="N/A" property="nz">飞利浦</word>
+    <word wordPrder="13" emotion="N/A" property="p">在</word>
+    <word wordPrder="14" emotion="N/A" property="b">京</word>
+    <word wordPrder="15" emotion="N/A" property="p">向</word>
+    <word wordPrder="16" emotion="N/A" property="n">全球</word>
+    <word wordPrder="17" emotion="N/A" property="v">发布</word>
+    <word wordPrder="18" emotion="N/A" property="ule">了</word>
+    <word wordPrder="19" emotion="positive" property="a">最新</word>
+    <word wordPrder="20" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="21" emotion="N/A" property="m">第三</word>
+    <word wordPrder="22" emotion="N/A" property="q">代</word>
+    <word wordPrder="23" emotion="N/A" property="v">显</word>
+    <word wordPrder="24" emotion="N/A" property="a">亮</word>
+    <word wordPrder="25" emotion="N/A" property="n">技术</word>
+    <word wordPrder="26" emotion="N/A" property="wd">，</word>
+    <word wordPrder="27" emotion="N/A" property="t">过去</word>
+    <word wordPrder="28" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="29" emotion="N/A" property="n">显示器</word>
+    <word wordPrder="30" emotion="N/A" property="v">用</word>
+    <word wordPrder="31" emotion="N/A" property="vf">来</word>
+    <word wordPrder="32" emotion="N/A" property="v">看</word>
+    <word wordPrder="33" emotion="N/A" property="n">文字</word>
+    <word wordPrder="34" emotion="N/A" conjunction="True" effect="same" property="cc">和</word>
+    <word wordPrder="35" emotion="N/A" property="n">静态图像</word>
+    <word wordPrder="36" emotion="N/A" property="wd">，</word>
+    <word wordPrder="37" emotion="N/A" property="t">现在</word>
+    <word wordPrder="38" emotion="N/A" property="d">则</word>
+    <word wordPrder="39" emotion="N/A" property="v">用于</word>
+    <word wordPrder="40" emotion="N/A" property="v">玩</word>
+    <word wordPrder="41" emotion="N/A" property="n">游戏</word>
+    <word wordPrder="42" emotion="N/A" property="wn">、</word>
+    <word wordPrder="43" emotion="N/A" property="v">看</word>
+    <word wordPrder="44" emotion="N/A" property="n">电影</word>
+  </sentence>
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="n">记者</word>
+    <word wordPrder="1" emotion="N/A" property="v">看到</word>
+    <word wordPrder="2" emotion="N/A" property="wd">，</word>
+    <word wordPrder="3" emotion="N/A" property="r">这种</word>
+    <word wordPrder="4" emotion="N/A" property="vn">智能化</word>
+    <word wordPrder="5" emotion="N/A" property="n">显示器</word>
+    <word wordPrder="6" emotion="N/A" property="v">提供</word>
+    <word wordPrder="7" emotion="N/A" property="ule">了</word>
+    <word wordPrder="8" emotion="N/A" property="m">12</word>
+    <word wordPrder="9" emotion="N/A" property="q">种</word>
+    <word wordPrder="10" emotion="N/A" property="n">模式</word>
+    <word wordPrder="11" emotion="N/A" property="wd">，</word>
+    <word wordPrder="12" emotion="N/A" property="rr">你</word>
+    <word wordPrder="13" emotion="N/A" property="v">可</word>
+    <word wordPrder="14" emotion="N/A" property="p">根据</word>
+    <word wordPrder="15" emotion="N/A" property="rr">自己</word>
+    <word wordPrder="16" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="17" emotion="N/A" property="n">心情</word>
+    <word wordPrder="18" emotion="N/A" property="vf">来</word>
+    <word wordPrder="19" emotion="N/A" property="v">选择</word>
+    <word wordPrder="20" emotion="N/A" property="wd">，</word>
+    <word wordPrder="21" emotion="N/A" property="n">显示器</word>
+    <word wordPrder="22" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="23" emotion="N/A" property="n">色彩</word>
+    <word wordPrder="24" emotion="N/A" property="wn">、</word>
+    <word wordPrder="25" emotion="N/A" property="n">亮度</word>
+    <word wordPrder="26" emotion="N/A" property="wd">，</word>
+    <word wordPrder="27" emotion="N/A" conjunction="True" effect="same" property="c">甚至</word>
+    <word wordPrder="28" emotion="N/A" property="n">形状</word>
+    <word wordPrder="29" emotion="N/A" property="d">都</word>
+    <word wordPrder="30" emotion="N/A" property="p">因</word>
+    <word wordPrder="31" emotion="N/A" property="rr">你</word>
+    <word wordPrder="32" emotion="N/A" conjunction="True" effect="same" property="cc">而</word>
+    <word wordPrder="33" emotion="N/A" property="v">变</word>
+  </sentence>
+  <sentence emotion="N/A">
+    <word wordPrder="0" emotion="N/A" property="w"></word>
+    <word wordPrder="1" emotion="N/A" property="x">　</word>
+    <word wordPrder="2" emotion="N/A" property="x">　</word>
+    <word wordPrder="3" emotion="N/A" property="t">今天</word>
+    <word wordPrder="4" emotion="N/A" property="t">上午</word>
+    <word wordPrder="5" emotion="N/A" property="wd">，</word>
+    <word wordPrder="6" emotion="N/A" property="d">正在</word>
+    <word wordPrder="7" emotion="N/A" property="ns">中关村</word>
+    <word wordPrder="8" emotion="N/A" property="ns">太平洋</word>
+    <word wordPrder="9" emotion="N/A" property="n">专卖店</word>
+    <word wordPrder="10" emotion="N/A" property="v">开展</word>
+    <word wordPrder="11" emotion="N/A" property="wyz">“</word>
+    <word wordPrder="12" emotion="N/A" property="vi">折旧</word>
+    <word wordPrder="13" emotion="N/A" property="v">换</word>
+    <word wordPrder="14" emotion="N/A" property="a">新</word>
+    <word wordPrder="15" emotion="N/A" property="wd">，</word>
+    <word wordPrder="16" emotion="N/A" property="v">跨越</word>
+    <word wordPrder="17" emotion="N/A" property="n">纯平</word>
+    <word wordPrder="18" emotion="N/A" property="wyy">”</word>
+    <word wordPrder="19" emotion="N/A" property="vn">活动</word>
+    <word wordPrder="20" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="21" emotion="N/A" property="nsf">美国</word>
+    <word wordPrder="22" emotion="N/A" property="ag">丽</word>
+    <word wordPrder="23" emotion="N/A" property="ng">讯</word>
+    <word wordPrder="24" emotion="N/A" property="n">科技</word>
+    <word wordPrder="25" emotion="N/A" property="n">负责人</word>
+    <word wordPrder="26" emotion="N/A" property="v">称</word>
+    <word wordPrder="27" emotion="N/A" property="wd">，</word>
+    <word wordPrder="28" emotion="N/A" property="v">换</word>
+    <word wordPrder="29" emotion="N/A" property="vg">购</word>
+    <word wordPrder="30" emotion="N/A" property="a">近</word>
+    <word wordPrder="31" emotion="N/A" property="m">半</word>
+    <word wordPrder="32" emotion="N/A" property="q">个</word>
+    <word wordPrder="33" emotion="N/A" property="n">月</word>
+    <word wordPrder="34" emotion="N/A" property="wd">，</word>
+    <word wordPrder="35" emotion="N/A" property="d">天天</word>
+    <word wordPrder="36" emotion="N/A" property="vl">人满为患</word>
+    <word wordPrder="37" emotion="N/A" property="wd">，</word>
+    <word wordPrder="38" emotion="N/A" property="n">市民</word>
+    <word wordPrder="39" emotion="N/A" property="k">们</word>
+    <word wordPrder="40" emotion="N/A" property="p">对于</word>
+    <word wordPrder="41" emotion="N/A" property="p">比</word>
+    <word wordPrder="42" emotion="N/A" property="n">专业</word>
+    <word wordPrder="43" emotion="N/A" property="nr2">纯平</word>
+    <word wordPrder="44" emotion="N/A" property="d">还</word>
+    <word wordPrder="45" emotion="N/A" property="v">要</word>
+    <word wordPrder="46" emotion="N/A" property="wyz">“</word>
+    <word wordPrder="47" emotion="positive" property="x">靓</word>
+    <word wordPrder="48" emotion="N/A" property="wyy">”</word>
+    <word wordPrder="49" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="50" emotion="N/A" property="n">液晶</word>
+    <word wordPrder="51" emotion="N/A" property="n">显示器</word>
+    <word wordPrder="52" emotion="N/A" property="ude1">的</word>
+    <word wordPrder="53" emotion="positive" property="an">热情</word>
+    <word wordPrder="54" emotion="N/A" property="wd">，</word>
+    <word wordPrder="55" emotion="N/A" property="v">让</word>
+    <word wordPrder="56" emotion="N/A" property="rr">他们</word>
+    <word wordPrder="57" emotion="negative" property="v">大跌</word>
+    <word wordPrder="58" emotion="N/A" property="n">眼镜</word>
+  </sentence>
+</document>
